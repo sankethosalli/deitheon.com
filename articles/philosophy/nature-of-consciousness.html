@@ -3,163 +3,154 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>The Nature of Consciousness - Philosophy | Deitheon</title>
-    <meta name="description" content="An exploration of consciousness, its nature, and philosophical implications.">
-    <meta name="keywords" content="consciousness, philosophy, mind, awareness, cognition">
+    <title>The Nature of Consciousness: Exploring the Hard Problem | Deitheon</title>
+    <meta name="description" content="An in-depth exploration of consciousness, qualia, and why subjective experience remains one of philosophy's greatest mysteries.">
+    <meta name="keywords" content="Consciousness, Philosophy of Mind, Qualia, Hard Problem">
+    <link rel="icon" href="/assets/images/favicon.png" type="image/x-icon">
     
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="article">
     <meta property="og:url" content="https://deitheon.com/articles/philosophy/nature-of-consciousness.html">
-    <meta property="og:title" content="The Nature of Consciousness - Philosophy | Deitheon">
-    <meta property="og:description" content="An exploration of consciousness, its nature, and philosophical implications.">
-    <meta property="og:image" content="https://deitheon.com/assets/images/articles/consciousness.jpg">
+    <meta property="og:title" content="The Nature of Consciousness: Exploring the Hard Problem | Deitheon">
+    <meta property="og:description" content="An in-depth exploration of consciousness, qualia, and why subjective experience remains one of philosophy's greatest mysteries.">
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
     <meta property="twitter:url" content="https://deitheon.com/articles/philosophy/nature-of-consciousness.html">
-    <meta property="twitter:title" content="The Nature of Consciousness - Philosophy | Deitheon">
-    <meta property="twitter:description" content="An exploration of consciousness, its nature, and philosophical implications.">
-    <meta property="twitter:image" content="https://deitheon.com/assets/images/articles/consciousness.jpg">
-
-    <!-- Article Schema -->
-    <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "Article",
-        "headline": "The Nature of Consciousness",
-        "description": "An exploration of consciousness, its nature, and philosophical implications.",
-        "image": "https://deitheon.com/assets/images/articles/consciousness.jpg",
-        "author": {
-            "@type": "Person",
-            "name": "John Doe"
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Deitheon",
-            "logo": {
-                "@type": "ImageObject",
-                "url": "https://deitheon.com/assets/images/logo.png"
-            }
-        },
-        "datePublished": "2025-11-07",
-        "dateModified": "2025-11-07"
-    }
-    </script>
+    <meta property="twitter:title" content="The Nature of Consciousness: Exploring the Hard Problem | Deitheon">
+    <meta property="twitter:description" content="An in-depth exploration of consciousness, qualia, and why subjective experience remains one of philosophy's greatest mysteries.">
 
     <!-- Styles -->
     <link rel="stylesheet" href="/assets/css/styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
     
     <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Merriweather:wght@400;700&display=swap" rel="stylesheet">
+    <script>
+        if (localStorage.theme === 'dark' || (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+            document.documentElement.classList.add('dark');
+        } else {
+            document.documentElement.classList.remove('dark');
+        }
+    </script>
 </head>
-<body class="min-h-screen bg-white dark:bg-gray-900">
-    <!-- Navbar (same as index.html) -->
-    
-    <!-- Reading Progress Bar -->
-    <div class="fixed top-0 left-0 w-full h-1 bg-gray-200 dark:bg-gray-700 z-50">
-        <div id="readingProgress" class="h-full bg-blue-600 w-0 transition-all duration-150"></div>
-    </div>
+<body class="min-h-screen bg-white dark:bg-gray-900 text-gray-800 dark:text-gray-200">
+    <!-- Navbar Container (loaded dynamically) -->
+    <div id="navbar-container"></div>
 
     <!-- Article Content -->
-    <main class="container-custom pt-20">
+    <main class="container mx-auto px-4 max-w-4xl pt-24 pb-16">
         <!-- Breadcrumbs -->
         <nav class="text-sm mb-8" aria-label="Breadcrumb">
             <ol class="list-none p-0 flex flex-wrap items-center space-x-2">
-                <li><a href="/" class="text-blue-600 dark:text-blue-400">Home</a></li>
+                <li><a href="/" class="text-blue-600 dark:text-blue-400 hover:underline">Home</a></li>
                 <li class="text-gray-500 dark:text-gray-400">/</li>
-                <li><a href="/articles" class="text-blue-600 dark:text-blue-400">Articles</a></li>
+                <li><a href="/articles" class="text-blue-600 dark:text-blue-400 hover:underline">Articles</a></li>
                 <li class="text-gray-500 dark:text-gray-400">/</li>
-                <li><a href="/articles/philosophy" class="text-blue-600 dark:text-blue-400">Philosophy</a></li>
+                <li><a href="/articles/philosophy" class="text-blue-600 dark:text-blue-400 hover:underline">Philosophy</a></li>
                 <li class="text-gray-500 dark:text-gray-400">/</li>
-                <li class="text-gray-600 dark:text-gray-300">The Nature of Consciousness</li>
+                <li class="text-gray-600 dark:text-gray-300">The Nature of Consciousness: Exploring the Hard Problem</li>
             </ol>
         </nav>
 
         <!-- Article Header -->
         <header class="mb-12">
-            <h1 class="text-4xl md:text-5xl font-bold mb-4">The Nature of Consciousness</h1>
-            <div class="flex items-center space-x-4 text-sm text-gray-600 dark:text-gray-300">
-                <span>By John Doe</span>
+            <h1 class="text-4xl md:text-5xl font-bold mb-6 leading-tight">The Nature of Consciousness: Exploring the Hard Problem</h1>
+            <div class="flex flex-wrap items-center gap-4 text-sm text-gray-600 dark:text-gray-400 mb-6">
+                <span><i class="fas fa-user mr-2"></i>Dr. Maya Patel</span>
                 <span>•</span>
-                <time datetime="2025-11-07">November 7, 2025</time>
+                <time datetime="2025-04-26"><i class="fas fa-calendar mr-2"></i>April 26, 2025</time>
                 <span>•</span>
-                <span>15 min read</span>
+                <span><i class="fas fa-clock mr-2"></i>15 min read</span>
             </div>
+            <p class="text-xl text-gray-700 dark:text-gray-300 leading-relaxed">An in-depth exploration of consciousness, qualia, and why subjective experience remains one of philosophy's greatest mysteries.</p>
         </header>
 
         <!-- Table of Contents -->
-        <aside class="bg-gray-50 dark:bg-gray-800 p-6 rounded-lg mb-8">
-            <h2 class="text-lg font-bold mb-4">Table of Contents</h2>
+        <aside class="bg-gradient-to-br from-blue-50 to-indigo-50 dark:from-gray-800 dark:to-gray-700 p-6 rounded-lg mb-12 border border-blue-100 dark:border-gray-600">
+            <h2 class="text-lg font-bold mb-4 flex items-center">
+                <i class="fas fa-list-ul mr-2 text-blue-600 dark:text-blue-400"></i>
+                Table of Contents
+            </h2>
             <nav>
                 <ol class="list-decimal list-inside space-y-2">
                     <li><a href="#introduction" class="text-blue-600 dark:text-blue-400 hover:underline">Introduction</a></li>
-                    <li><a href="#what-is-consciousness" class="text-blue-600 dark:text-blue-400 hover:underline">What is Consciousness?</a></li>
-                    <li><a href="#philosophical-perspectives" class="text-blue-600 dark:text-blue-400 hover:underline">Philosophical Perspectives</a></li>
-                    <li><a href="#conclusion" class="text-blue-600 dark:text-blue-400 hover:underline">Conclusion</a></li>
+<li><a href="#the-hard-problem" class="text-blue-600 dark:text-blue-400 hover:underline">The Hard Problem</a></li>
+<li><a href="#theories-of-consciousness" class="text-blue-600 dark:text-blue-400 hover:underline">Theories of Consciousness</a></li>
+<li><a href="#the-explanatory-gap" class="text-blue-600 dark:text-blue-400 hover:underline">The Explanatory Gap</a></li>
+<li><a href="#implications" class="text-blue-600 dark:text-blue-400 hover:underline">Implications</a></li>
+<li><a href="#conclusion" class="text-blue-600 dark:text-blue-400 hover:underline">Conclusion</a></li>
                 </ol>
             </nav>
         </aside>
 
         <!-- Article Content -->
-        <article class="prose prose-lg dark:prose-invert max-w-none">
-            <section id="introduction">
-                <h2>Introduction</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-            </section>
-
-            <section id="what-is-consciousness">
-                <h2>What is Consciousness?</h2>
-                <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-            </section>
-
-            <section id="philosophical-perspectives">
-                <h2>Philosophical Perspectives</h2>
-                <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-            </section>
-
-            <section id="conclusion">
-                <h2>Conclusion</h2>
-                <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-            </section>
+        <article class="prose prose-lg dark:prose-invert max-w-none prose-headings:font-bold prose-h2:text-3xl prose-h2:mt-12 prose-h2:mb-6 prose-p:mb-4 prose-p:leading-relaxed prose-a:text-blue-600 dark:prose-a:text-blue-400 prose-a:no-underline hover:prose-a:underline">
+            <section id="introduction" class="mb-8"><h2 class="text-2xl font-bold mb-4">Introduction</h2><p class="mb-4">Consciousness represents perhaps the most profound mystery in philosophy and neuroscience.</p><p class="mb-4">Despite remarkable advances in our understanding of the brain, the question of how physical processes give rise to subjective experience—what philosophers call "qualia"—remains largely unanswered.</p></section>
+<section id="the-hard-problem" class="mb-8"><h2 class="text-2xl font-bold mb-4">The Hard Problem</h2><p class="mb-4">Philosopher David Chalmers famously distinguished between the "easy" and "hard" problems of consciousness.</p><p class="mb-4">While the easy problems involve explaining cognitive functions and behaviors, the hard problem asks: why is there something it is like to be conscious? Why doesn't all this information processing go on "in the dark," without any inner experience?.</p></section>
+<section id="theories-of-consciousness" class="mb-8"><h2 class="text-2xl font-bold mb-4">Theories of Consciousness</h2><p class="mb-4">Multiple theories attempt to explain consciousness.</p><p class="mb-4">Integrated Information Theory (IIT) suggests consciousness arises from integrated information.</p><p class="mb-4">Global Workspace Theory proposes consciousness emerges from a "broadcasting" mechanism in the brain.</p><p class="mb-4">Panpsychism argues consciousness is a fundamental property of matter itself.</p></section>
+<section id="the-explanatory-gap" class="mb-8"><h2 class="text-2xl font-bold mb-4">The Explanatory Gap</h2><p class="mb-4">The explanatory gap refers to the difficulty in explaining how physical processes produce phenomenal states.</p><p class="mb-4">Even if we fully understand neural correlates of consciousness, we may still wonder why these processes feel like something from the inside.</p></section>
+<section id="implications" class="mb-8"><h2 class="text-2xl font-bold mb-4">Implications</h2><p class="mb-4">Understanding consciousness has profound implications for artificial intelligence, ethics, and our understanding of reality itself.</p><p class="mb-4">If we create conscious machines, what moral obligations would we have? How do we test for consciousness?.</p></section>
+<section id="conclusion" class="mb-8"><h2 class="text-2xl font-bold mb-4">Conclusion</h2><p class="mb-4">The nature of consciousness remains an open question that bridges philosophy, neuroscience, and physics.</p><p class="mb-4">As we develop new tools and theories, we may finally bridge the explanatory gap—or discover that consciousness requires entirely new ways of thinking about reality.</p></section>
         </article>
 
         <!-- Tags -->
-        <div class="mt-12">
-            <h3 class="text-lg font-bold mb-4">Tags</h3>
+        <div class="mt-16 pt-8 border-t border-gray-200 dark:border-gray-700">
+            <h3 class="text-lg font-bold mb-4 flex items-center">
+                <i class="fas fa-tags mr-2 text-blue-600 dark:text-blue-400"></i>
+                Tags
+            </h3>
             <div class="flex flex-wrap gap-2">
-                <a href="/tags/consciousness" class="px-3 py-1 bg-gray-100 dark:bg-gray-800 rounded-full text-sm hover:bg-gray-200 dark:hover:bg-gray-700">consciousness</a>
-                <a href="/tags/philosophy" class="px-3 py-1 bg-gray-100 dark:bg-gray-800 rounded-full text-sm hover:bg-gray-200 dark:hover:bg-gray-700">philosophy</a>
-                <a href="/tags/mind" class="px-3 py-1 bg-gray-100 dark:bg-gray-800 rounded-full text-sm hover:bg-gray-200 dark:hover:bg-gray-700">mind</a>
+                <a href="/tags/consciousness" class="px-4 py-2 bg-blue-100 dark:bg-blue-900 text-blue-800 dark:text-blue-200 rounded-full text-sm hover:bg-blue-200 dark:hover:bg-blue-800 transition">Consciousness</a>
+<a href="/tags/philosophy-of-mind" class="px-4 py-2 bg-blue-100 dark:bg-blue-900 text-blue-800 dark:text-blue-200 rounded-full text-sm hover:bg-blue-200 dark:hover:bg-blue-800 transition">Philosophy of Mind</a>
+<a href="/tags/qualia" class="px-4 py-2 bg-blue-100 dark:bg-blue-900 text-blue-800 dark:text-blue-200 rounded-full text-sm hover:bg-blue-200 dark:hover:bg-blue-800 transition">Qualia</a>
+<a href="/tags/hard-problem" class="px-4 py-2 bg-blue-100 dark:bg-blue-900 text-blue-800 dark:text-blue-200 rounded-full text-sm hover:bg-blue-200 dark:hover:bg-blue-800 transition">Hard Problem</a>
             </div>
         </div>
 
-        <!-- Related Articles -->
-        <section class="mt-16">
-            <h3 class="text-2xl font-bold mb-8">Related Articles</h3>
-            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-                <!-- Related article cards will be populated here -->
+        <!-- Author Bio -->
+        <div class="mt-12 p-6 bg-gray-50 dark:bg-gray-800 rounded-lg border border-gray-200 dark:border-gray-700">
+            <h3 class="text-lg font-bold mb-3">About the Author</h3>
+            <p class="text-gray-700 dark:text-gray-300"><strong>Dr. Maya Patel</strong> is a contributor to DeiTheon, specializing in Philosophy and related topics.</p>
+        </div>
+
+        <!-- Share Section -->
+        <div class="mt-12 text-center">
+            <p class="text-gray-600 dark:text-gray-400 mb-4">Found this article helpful? Share it with others!</p>
+            <div class="flex justify-center gap-4">
+                <a href="https://twitter.com/intent/tweet?url=https://deitheon.com/articles/philosophy/nature-of-consciousness.html&text=The Nature of Consciousness: Exploring the Hard Problem" 
+                   target="_blank" rel="noopener"
+                   class="px-6 py-3 bg-blue-500 text-white rounded-lg hover:bg-blue-600 transition">
+                    <i class="fab fa-twitter mr-2"></i>Share on Twitter
+                </a>
+                <a href="https://www.linkedin.com/sharing/share-offsite/?url=https://deitheon.com/articles/philosophy/nature-of-consciousness.html" 
+                   target="_blank" rel="noopener"
+                   class="px-6 py-3 bg-blue-700 text-white rounded-lg hover:bg-blue-800 transition">
+                    <i class="fab fa-linkedin mr-2"></i>Share on LinkedIn
+                </a>
             </div>
-        </section>
+        </div>
     </main>
 
-    <!-- Footer (same as index.html) -->
+    <!-- Footer Container (loaded dynamically) -->
+    <div id="footer-container"></div>
 
-    <!-- Scroll to Top Button (same as index.html) -->
-
-    <!-- Scripts -->
-    <script src="/assets/js/main.js" defer></script>
+    <!-- Component Loader & Core Scripts -->
+    <script src="/assets/js/components.js"></script>
     <script>
         // Reading Progress
         const readingProgress = document.getElementById('readingProgress');
-        window.addEventListener('scroll', () => {
-            const windowHeight = document.documentElement.clientHeight;
-            const fullHeight = document.documentElement.scrollHeight - windowHeight;
-            const scrolled = window.scrollY;
-            const progress = (scrolled / fullHeight) * 100;
-            readingProgress.style.width = `${progress}%`;
-        });
+        if (readingProgress) {
+            window.addEventListener('scroll', () => {
+                const windowHeight = document.documentElement.clientHeight;
+                const fullHeight = document.documentElement.scrollHeight - windowHeight;
+                const scrolled = window.scrollY;
+                const progress = (scrolled / fullHeight) * 100;
+                readingProgress.style.width = `${progress}%`;
+            });
+        }
     </script>
 </body>
 </html>
