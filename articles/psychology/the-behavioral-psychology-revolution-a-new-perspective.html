@@ -31,7 +31,7 @@
         "image": "https://deitheon.com/assets/images/articles/psychology/the-behavioral-psychology-revolution-a-new-perspective.jpg",
         "author": {
             "@type": "Person",
-            "name": "Maria Garcia"
+            "name": "David Chen"
         },
         "publisher": {
             "@type": "Organization",
@@ -41,27 +41,76 @@
                 "url": "https://deitheon.com/assets/images/logo.png"
             }
         },
-        "datePublished": "2025-03-05",
-        "dateModified": "2025-03-05"
+        "datePublished": "2025-06-16",
+        "dateModified": "2025-06-16"
     }
     </script>
 
     <!-- Styles -->
     <link rel="stylesheet" href="/assets/css/styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
     
     <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Merriweather:wght@400;700&display=swap" rel="stylesheet">
+    <script>
+        if (localStorage.theme === 'dark' || (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+            document.documentElement.classList.add('dark');
+        } else {
+            document.documentElement.classList.remove('dark');
+        }
+    </script>
 </head>
 <body class="min-h-screen bg-white dark:bg-gray-900">
+    <!-- Header/Navbar -->
+    <header class="fixed w-full bg-white/95 dark:bg-gray-900/95 backdrop-blur-sm z-50 border-b border-gray-200 dark:border-gray-800">
+        <nav class="container mx-auto px-4 py-3">
+            <div class="flex items-center justify-between">
+                <!-- Logo -->
+                <a href="/" class="text-2xl font-bold text-blue-600 dark:text-blue-400">DeiTheon</a>
+                
+                <!-- Desktop Navigation -->
+                <div class="hidden md:flex items-center space-x-8">
+                    <a href="/" class="hover:text-blue-600 dark:hover:text-blue-400 transition">Home</a>
+                    <a href="/categories" class="hover:text-blue-600 dark:hover:text-blue-400 transition">Categories</a>
+                    <a href="/articles" class="hover:text-blue-600 dark:hover:text-blue-400 transition">Articles</a>
+                    <a href="/about" class="hover:text-blue-600 dark:hover:text-blue-400 transition">About</a>
+                    <a href="/contact" class="hover:text-blue-600 dark:hover:text-blue-400 transition">Contact</a>
+                    
+                    <!-- Theme Toggle -->
+                    <button id="themeToggle" class="p-2 rounded-full hover:bg-gray-100 dark:hover:bg-gray-800 transition">
+                        <i class="fas fa-sun dark:hidden"></i>
+                        <i class="fas fa-moon hidden dark:block"></i>
+                    </button>
+                </div>
+
+                <!-- Mobile Menu Button -->
+                <button class="md:hidden p-2" id="mobileMenuBtn">
+                    <i class="fas fa-bars text-2xl"></i>
+                </button>
+            </div>
+
+            <!-- Mobile Menu -->
+            <div class="md:hidden hidden" id="mobileMenu" aria-hidden="true">
+                <div class="py-4 space-y-4">
+                    <a href="/" class="block hover:text-blue-600 dark:hover:text-blue-400">Home</a>
+                    <a href="/categories" class="block hover:text-blue-600 dark:hover:text-blue-400">Categories</a>
+                    <a href="/articles" class="block hover:text-blue-600 dark:hover:text-blue-400">Articles</a>
+                    <a href="/about" class="block hover:text-blue-600 dark:hover:text-blue-400">About</a>
+                    <a href="/contact" class="block hover:text-blue-600 dark:hover:text-blue-400">Contact</a>
+                </div>
+            </div>
+        </nav>
+    </header>
+
     <!-- Reading Progress Bar -->
-    <div class="fixed top-0 left-0 w-full h-1 bg-gray-200 dark:bg-gray-700 z-50">
+    <div class="fixed top-16 left-0 w-full h-1 bg-gray-200 dark:bg-gray-700 z-40">
         <div id="readingProgress" class="h-full bg-blue-600 w-0 transition-all duration-150"></div>
     </div>
 
     <!-- Article Content -->
-    <main class="container-custom pt-20">
+    <main class="container-custom pt-24">
         <!-- Breadcrumbs -->
         <nav class="text-sm mb-8" aria-label="Breadcrumb">
             <ol class="list-none p-0 flex flex-wrap items-center space-x-2">
@@ -79,11 +128,11 @@
         <header class="mb-12">
             <h1 class="text-4xl md:text-5xl font-bold mb-4">The Behavioral Psychology Revolution: A New Perspective</h1>
             <div class="flex items-center space-x-4 text-sm text-gray-600 dark:text-gray-300">
-                <span>By Maria Garcia</span>
+                <span>By David Chen</span>
                 <span>•</span>
-                <time datetime="2025-03-05">March 05, 2025</time>
+                <time datetime="2025-06-16">June 16, 2025</time>
                 <span>•</span>
-                <span>6 min read</span>
+                <span>20 min read</span>
             </div>
         </header>
 
@@ -135,6 +184,25 @@
     <!-- Scripts -->
     <script src="/assets/js/main.js" defer></script>
     <script>
+        // Theme toggle
+        const themeToggleBtn = document.getElementById('themeToggle');
+        if (themeToggleBtn) {
+            themeToggleBtn.addEventListener('click', () => {
+                document.documentElement.classList.toggle('dark');
+                localStorage.theme = document.documentElement.classList.contains('dark') ? 'dark' : 'light';
+            });
+        }
+
+        // Mobile menu
+        const mobileMenuBtn = document.getElementById('mobileMenuBtn');
+        const mobileMenu = document.getElementById('mobileMenu');
+        if (mobileMenuBtn && mobileMenu) {
+            mobileMenuBtn.addEventListener('click', () => {
+                const isHidden = mobileMenu.classList.toggle('hidden');
+                mobileMenu.setAttribute('aria-hidden', isHidden);
+            });
+        }
+
         // Reading Progress
         const readingProgress = document.getElementById('readingProgress');
         window.addEventListener('scroll', () => {

@@ -1,0 +1,314 @@
+<!DOCTYPE html>
+<html lang="en" class="scroll-smooth">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Us 🌟 - DeiTheon</title>
+    <meta name="description" content="Learn about DeiTheon - a knowledge-driven platform dedicated to exploring technology, philosophy, culture, and human understanding.">
+    <link href="/assets/css/styles.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <script>
+        if (localStorage.theme === 'dark' || (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+            document.documentElement.classList.add('dark');
+        } else {
+            document.documentElement.classList.remove('dark');
+        }
+    </script>
+</head>
+<body class="bg-white dark:bg-gray-900 text-gray-800 dark:text-gray-200 min-h-screen flex flex-col">
+    <!-- Header/Navbar -->
+    <header class="fixed w-full bg-white/95 dark:bg-gray-900/95 backdrop-blur-sm z-50 border-b border-gray-200 dark:border-gray-800">
+        <nav class="container mx-auto px-4 py-3">
+            <div class="flex items-center justify-between">
+                <!-- Logo -->
+                <a href="/" class="text-2xl font-bold text-blue-600 dark:text-blue-400">DeiTheon</a>
+                
+                <!-- Desktop Navigation -->
+                <div class="hidden md:flex items-center space-x-8">
+                    <a href="/" class="hover:text-blue-600 dark:hover:text-blue-400 transition">Home</a>
+                    <a href="/categories" class="hover:text-blue-600 dark:hover:text-blue-400 transition">Categories</a>
+                    <a href="/articles" class="hover:text-blue-600 dark:hover:text-blue-400 transition">Articles</a>
+                    <a href="/about" class="text-blue-600 dark:text-blue-400 font-semibold">About</a>
+                    <a href="/contact" class="hover:text-blue-600 dark:hover:text-blue-400 transition">Contact</a>
+                    
+                    <!-- Theme Toggle -->
+                    <button id="themeToggle" class="p-2 rounded-full hover:bg-gray-100 dark:hover:bg-gray-800 transition">
+                        <i class="fas fa-sun dark:hidden"></i>
+                        <i class="fas fa-moon hidden dark:block"></i>
+                    </button>
+                </div>
+
+                <!-- Mobile Menu Button -->
+                <button class="md:hidden p-2" id="mobileMenuBtn">
+                    <i class="fas fa-bars text-2xl"></i>
+                </button>
+            </div>
+
+            <!-- Mobile Menu -->
+            <div class="md:hidden hidden" id="mobileMenu" aria-hidden="true">
+                <div class="py-4 space-y-4">
+                    <a href="/" class="block hover:text-blue-600 dark:hover:text-blue-400">Home</a>
+                    <a href="/categories" class="block hover:text-blue-600 dark:hover:text-blue-400">Categories</a>
+                    <a href="/articles" class="block hover:text-blue-600 dark:hover:text-blue-400">Articles</a>
+                    <a href="/about" class="block text-blue-600 dark:text-blue-400 font-semibold">About</a>
+                    <a href="/contact" class="block hover:text-blue-600 dark:hover:text-blue-400">Contact</a>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <!-- Main Content -->
+    <main class="flex-grow pt-16">
+        <!-- Hero Section -->
+        <section class="relative bg-gradient-to-br from-indigo-50 to-purple-100 dark:from-gray-800 dark:to-gray-900 py-20 md:py-32">
+            <div class="container mx-auto px-4 text-center">
+                <h1 class="text-4xl md:text-6xl font-bold mb-6">
+                    About DeiTheon 🌟
+                </h1>
+                <p class="text-xl md:text-2xl mb-8 max-w-3xl mx-auto text-gray-700 dark:text-gray-300">
+                    A knowledge-driven platform where curiosity meets insight, and ideas spark innovation.
+                </p>
+            </div>
+            <div class="absolute inset-0 -z-10 opacity-20 dark:opacity-10">
+                <div class="absolute inset-0 bg-[radial-gradient(circle_at_50%_120%,#6366F1,#8B5CF6,transparent_70%)]"></div>
+            </div>
+        </section>
+
+        <!-- Mission Section -->
+        <section class="py-20">
+            <div class="container mx-auto px-4">
+                <div class="max-w-4xl mx-auto">
+                    <div class="text-center mb-16">
+                        <h2 class="text-4xl font-bold mb-6">Our Mission 🎯</h2>
+                        <p class="text-xl text-gray-600 dark:text-gray-400 leading-relaxed">
+                            DeiTheon exists to illuminate the intersections of technology, philosophy, culture, and human understanding. We believe that knowledge is most powerful when it's accessible, engaging, and connects diverse fields of thought.
+                        </p>
+                    </div>
+
+                    <div class="grid grid-cols-1 md:grid-cols-3 gap-8 mb-16">
+                        <div class="text-center p-6 bg-blue-50 dark:bg-gray-800 rounded-xl">
+                            <div class="text-5xl mb-4">💡</div>
+                            <h3 class="text-xl font-bold mb-3">Illuminate</h3>
+                            <p class="text-gray-600 dark:text-gray-400">We shed light on complex ideas, making them accessible and engaging for everyone.</p>
+                        </div>
+                        <div class="text-center p-6 bg-purple-50 dark:bg-gray-800 rounded-xl">
+                            <div class="text-5xl mb-4">🔗</div>
+                            <h3 class="text-xl font-bold mb-3">Connect</h3>
+                            <p class="text-gray-600 dark:text-gray-400">We bridge diverse disciplines to reveal deeper insights and unexpected connections.</p>
+                        </div>
+                        <div class="text-center p-6 bg-indigo-50 dark:bg-gray-800 rounded-xl">
+                            <div class="text-5xl mb-4">🚀</div>
+                            <h3 class="text-xl font-bold mb-3">Inspire</h3>
+                            <p class="text-gray-600 dark:text-gray-400">We spark curiosity and empower readers to think critically about the world.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Values Section -->
+        <section class="py-20 bg-gray-50 dark:bg-gray-800/50">
+            <div class="container mx-auto px-4">
+                <div class="text-center mb-16">
+                    <h2 class="text-4xl font-bold mb-6">Our Values ⭐</h2>
+                </div>
+                
+                <div class="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-8">
+                    <div class="bg-white dark:bg-gray-800 p-8 rounded-2xl shadow-lg">
+                        <div class="flex items-start">
+                            <div class="text-4xl mr-4">🎓</div>
+                            <div>
+                                <h3 class="text-2xl font-bold mb-3">Intellectual Rigor</h3>
+                                <p class="text-gray-600 dark:text-gray-400">
+                                    We commit to thorough research, critical thinking, and presenting ideas with depth and accuracy. Every article is crafted with care and attention to detail.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="bg-white dark:bg-gray-800 p-8 rounded-2xl shadow-lg">
+                        <div class="flex items-start">
+                            <div class="text-4xl mr-4">🌍</div>
+                            <div>
+                                <h3 class="text-2xl font-bold mb-3">Diverse Perspectives</h3>
+                                <p class="text-gray-600 dark:text-gray-400">
+                                    We celebrate multiple viewpoints and cultural contexts. Knowledge is richer when we embrace the full spectrum of human experience and thought.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="bg-white dark:bg-gray-800 p-8 rounded-2xl shadow-lg">
+                        <div class="flex items-start">
+                            <div class="text-4xl mr-4">✨</div>
+                            <div>
+                                <h3 class="text-2xl font-bold mb-3">Accessible Excellence</h3>
+                                <p class="text-gray-600 dark:text-gray-400">
+                                    Complex ideas shouldn't be complicated. We make sophisticated content engaging and understandable without sacrificing intellectual depth.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="bg-white dark:bg-gray-800 p-8 rounded-2xl shadow-lg">
+                        <div class="flex items-start">
+                            <div class="text-4xl mr-4">🔍</div>
+                            <div>
+                                <h3 class="text-2xl font-bold mb-3">Curiosity-Driven</h3>
+                                <p class="text-gray-600 dark:text-gray-400">
+                                    We're guided by genuine curiosity about the world. Questions are as valuable as answers, and exploration is a never-ending journey.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- What We Cover -->
+        <section class="py-20">
+            <div class="container mx-auto px-4">
+                <div class="text-center mb-16">
+                    <h2 class="text-4xl font-bold mb-6">What We Cover 📖</h2>
+                    <p class="text-xl text-gray-600 dark:text-gray-400 max-w-3xl mx-auto">
+                        Our content spans 8 major categories, each exploring different facets of human knowledge and experience.
+                    </p>
+                </div>
+
+                <div class="max-w-5xl mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+                    <div class="text-center p-6 bg-gradient-to-br from-blue-50 to-blue-100 dark:from-gray-800 dark:to-gray-700 rounded-xl">
+                        <div class="text-5xl mb-3">💻</div>
+                        <h4 class="font-bold text-lg">Technology</h4>
+                    </div>
+                    <div class="text-center p-6 bg-gradient-to-br from-purple-50 to-purple-100 dark:from-gray-800 dark:to-gray-700 rounded-xl">
+                        <div class="text-5xl mb-3">🧠</div>
+                        <h4 class="font-bold text-lg">Philosophy</h4>
+                    </div>
+                    <div class="text-center p-6 bg-gradient-to-br from-pink-50 to-pink-100 dark:from-gray-800 dark:to-gray-700 rounded-xl">
+                        <div class="text-5xl mb-3">🎨</div>
+                        <h4 class="font-bold text-lg">Culture</h4>
+                    </div>
+                    <div class="text-center p-6 bg-gradient-to-br from-green-50 to-green-100 dark:from-gray-800 dark:to-gray-700 rounded-xl">
+                        <div class="text-5xl mb-3">🔬</div>
+                        <h4 class="font-bold text-lg">Science</h4>
+                    </div>
+                    <div class="text-center p-6 bg-gradient-to-br from-indigo-50 to-indigo-100 dark:from-gray-800 dark:to-gray-700 rounded-xl">
+                        <div class="text-5xl mb-3">👥</div>
+                        <h4 class="font-bold text-lg">Society</h4>
+                    </div>
+                    <div class="text-center p-6 bg-gradient-to-br from-teal-50 to-teal-100 dark:from-gray-800 dark:to-gray-700 rounded-xl">
+                        <div class="text-5xl mb-3">🧘</div>
+                        <h4 class="font-bold text-lg">Psychology</h4>
+                    </div>
+                    <div class="text-center p-6 bg-gradient-to-br from-red-50 to-red-100 dark:from-gray-800 dark:to-gray-700 rounded-xl">
+                        <div class="text-5xl mb-3">⚖️</div>
+                        <h4 class="font-bold text-lg">Politics</h4>
+                    </div>
+                    <div class="text-center p-6 bg-gradient-to-br from-orange-50 to-orange-100 dark:from-gray-800 dark:to-gray-700 rounded-xl">
+                        <div class="text-5xl mb-3">🍽️</div>
+                        <h4 class="font-bold text-lg">Food</h4>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Stats Section -->
+        <section class="py-20 bg-gradient-to-r from-blue-600 to-purple-600 text-white">
+            <div class="container mx-auto px-4">
+                <div class="max-w-5xl mx-auto grid grid-cols-2 md:grid-cols-4 gap-8 text-center">
+                    <div>
+                        <div class="text-5xl font-bold mb-2">500+</div>
+                        <div class="text-lg opacity-90">Articles Published</div>
+                    </div>
+                    <div>
+                        <div class="text-5xl font-bold mb-2">8</div>
+                        <div class="text-lg opacity-90">Categories</div>
+                    </div>
+                    <div>
+                        <div class="text-5xl font-bold mb-2">50+</div>
+                        <div class="text-lg opacity-90">Topics Covered</div>
+                    </div>
+                    <div>
+                        <div class="text-5xl font-bold mb-2">∞</div>
+                        <div class="text-lg opacity-90">Ideas Explored</div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- CTA Section -->
+        <section class="py-20">
+            <div class="container mx-auto px-4 text-center">
+                <h2 class="text-4xl font-bold mb-6">Join Our Community 🤝</h2>
+                <p class="text-xl text-gray-600 dark:text-gray-400 mb-8 max-w-2xl mx-auto">
+                    Become part of a growing community of curious minds. Explore, learn, and share your thoughts with us.
+                </p>
+                <div class="flex flex-col sm:flex-row justify-center gap-4">
+                    <a href="/articles" class="inline-block px-8 py-4 bg-blue-600 text-white rounded-full hover:bg-blue-700 transition font-semibold shadow-lg hover:shadow-xl">
+                        Start Reading
+                    </a>
+                    <a href="/contact" class="inline-block px-8 py-4 bg-gray-200 dark:bg-gray-700 rounded-full hover:bg-gray-300 dark:hover:bg-gray-600 transition font-semibold shadow-lg hover:shadow-xl">
+                        Get in Touch
+                    </a>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-gray-900 text-gray-400">
+        <div class="container mx-auto px-4 py-12">
+            <div class="grid grid-cols-1 md:grid-cols-4 gap-8">
+                <div class="md:col-span-2">
+                    <h3 class="text-2xl font-bold text-white mb-4">DeiTheon</h3>
+                    <p class="mb-4">Where ideas, innovation, and insight converge. 💡</p>
+                    <div class="flex space-x-4">
+                        <a href="#" class="hover:text-white transition"><i class="fab fa-twitter"></i></a>
+                        <a href="#" class="hover:text-white transition"><i class="fab fa-linkedin"></i></a>
+                        <a href="#" class="hover:text-white transition"><i class="fab fa-github"></i></a>
+                    </div>
+                </div>
+                <div>
+                    <h4 class="text-white font-semibold mb-4">Quick Links</h4>
+                    <ul class="space-y-2">
+                        <li><a href="/" class="hover:text-white transition">Home</a></li>
+                        <li><a href="/about" class="hover:text-white transition">About</a></li>
+                        <li><a href="/privacy.html" class="hover:text-white transition">Privacy</a></li>
+                        <li><a href="/contact" class="hover:text-white transition">Contact</a></li>
+                    </ul>
+                </div>
+                <div>
+                    <h4 class="text-white font-semibold mb-4">Categories</h4>
+                    <ul class="space-y-2">
+                        <li><a href="/articles/tech" class="hover:text-white transition">Technology</a></li>
+                        <li><a href="/articles/philosophy" class="hover:text-white transition">Philosophy</a></li>
+                        <li><a href="/articles/culture" class="hover:text-white transition">Culture</a></li>
+                        <li><a href="/articles/science" class="hover:text-white transition">Science</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="border-t border-gray-800 mt-12 pt-8 text-center">
+                <p>&copy; 2025 DeiTheon. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Scripts -->
+    <script>
+        // Theme toggle
+        const themeToggleBtn = document.getElementById('themeToggle');
+        themeToggleBtn.addEventListener('click', () => {
+            document.documentElement.classList.toggle('dark');
+            localStorage.theme = document.documentElement.classList.contains('dark') ? 'dark' : 'light';
+        });
+
+        // Mobile menu
+        const mobileMenuBtn = document.getElementById('mobileMenuBtn');
+        const mobileMenu = document.getElementById('mobileMenu');
+        mobileMenuBtn.addEventListener('click', () => {
+            const isHidden = mobileMenu.classList.toggle('hidden');
+            mobileMenu.setAttribute('aria-hidden', isHidden);
+        });
+    </script>
+</body>
+</html>
