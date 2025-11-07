@@ -1,12 +1,13 @@
-<!DOCTYPE html><!DOCTYPE html>
-
-<html lang="en" class="scroll-smooth"><html lang="en" class="scroll-smooth">
-
-<head><head>
+<!DOCTYPE html>
+<html lang="en" class="scroll-smooth">
+<head>
+<head>
 
     <meta charset="UTF-8">    <meta charset="UTF-8">
 
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="/assets/images/favicon.png" type="image/x-icon">    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="/assets/images/favicon.png" type="image/x-icon">
 
     <title>All Articles 📚 - DeiTheon</title>    <title>Articles by Category - Deitheon</title>
 
@@ -30,89 +31,13 @@
 
     </script>    <link rel="stylesheet" href="/assets/css/styles.css">
 
-</head>    
 
-<body class="bg-white dark:bg-gray-900 text-gray-800 dark:text-gray-200 min-h-screen flex flex-col">    <!-- Fonts -->
+</head>
+<body class="bg-white dark:bg-gray-900 text-gray-800 dark:text-gray-200 min-h-screen flex flex-col">
+    <!-- Navbar Container -->
+    <div id="navbar-container"></div>
 
-    <!-- Header/Navbar -->    <link rel="preconnect" href="https://fonts.googleapis.com">
-
-    <header class="fixed w-full bg-white/95 dark:bg-gray-900/95 backdrop-blur-sm z-50 border-b border-gray-200 dark:border-gray-800">    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-
-        <nav class="container mx-auto px-4 py-3">    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Merriweather:wght@400;700&display=swap" rel="stylesheet">
-
-            <div class="flex items-center justify-between"></head>
-
-                <!-- Logo --><body class="min-h-screen bg-white dark:bg-gray-900">
-
-                <a href="/" class="text-2xl font-bold text-blue-600 dark:text-blue-400">DeiTheon</a>    <!-- Navbar -->
-
-                    <nav class="navbar">
-
-                <!-- Desktop Navigation -->        <div class="container-custom">
-
-                <div class="hidden md:flex items-center space-x-8">            <div class="flex items-center justify-between h-16">
-
-                    <a href="/" class="hover:text-blue-600 dark:hover:text-blue-400 transition">Home</a>                <a href="/" class="text-xl font-bold">Deitheon</a>
-
-                    <a href="/categories" class="hover:text-blue-600 dark:hover:text-blue-400 transition">Categories</a>                
-
-                    <a href="/articles" class="text-blue-600 dark:text-blue-400 font-semibold">Articles</a>                <!-- Desktop Navigation -->
-
-                    <a href="/about" class="hover:text-blue-600 dark:hover:text-blue-400 transition">About</a>                <div class="hidden md:flex items-center space-x-8">
-
-                    <a href="/contact" class="hover:text-blue-600 dark:hover:text-blue-400 transition">Contact</a>                    <a href="/" class="nav-link">Home</a>
-
-                                        
-
-                    <!-- Theme Toggle -->                    <!-- Articles Dropdown -->
-
-                    <button id="themeToggle" class="p-2 rounded-full hover:bg-gray-100 dark:hover:bg-gray-800 transition">                    <div class="relative group">
-
-                        <i class="fas fa-sun dark:hidden"></i>                        <button class="nav-link flex items-center">
-
-                        <i class="fas fa-moon hidden dark:block"></i>                            Articles
-
-                    </button>                            <svg class="w-4 h-4 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-
-                </div>                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
-
-                            </svg>
-
-                <!-- Mobile Menu Button -->                        </button>
-
-                <button class="md:hidden p-2" id="mobileMenuBtn">                        <div class="absolute left-0 mt-2 w-48 bg-white dark:bg-gray-800 rounded-md shadow-lg py-2 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200">
-
-                    <i class="fas fa-bars text-2xl"></i>                            <a href="/articles/philosophy" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-700">Philosophy</a>
-
-                </button>                            <a href="/articles/science" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-700">Science</a>
-
-            </div>                            <a href="/articles/psychology" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-700">Psychology</a>
-
-                            <a href="/articles/society" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-700">Society</a>
-
-            <!-- Mobile Menu -->                            <a href="/articles/culture" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-700">Culture</a>
-
-            <div class="md:hidden hidden" id="mobileMenu" aria-hidden="true">                            <a href="/articles/food" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-700">Food</a>
-
-                <div class="py-4 space-y-4">                            <a href="/articles/tech" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-700">Tech</a>
-
-                    <a href="/" class="block hover:text-blue-600 dark:hover:text-blue-400">Home</a>                            <a href="/articles/politics" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-700">Politics</a>
-
-                    <a href="/categories" class="block hover:text-blue-600 dark:hover:text-blue-400">Categories</a>                        </div>
-
-                    <a href="/articles" class="block text-blue-600 dark:text-blue-400 font-semibold">Articles</a>                    </div>
-
-                    <a href="/about" class="block hover:text-blue-600 dark:hover:text-blue-400">About</a>                    
-
-                    <a href="/contact" class="block hover:text-blue-600 dark:hover:text-blue-400">Contact</a>                    <a href="/about.html" class="nav-link">About</a>
-
-                </div>                    <a href="/contact.html" class="nav-link">Contact</a>
-
-            </div>                </div>
-
-        </nav>
-
-    </header>                <!-- Theme Toggle -->
+<!-- Theme Toggle -->
 
                 <button id="themeToggle" class="p-2 rounded-full hover:bg-gray-100 dark:hover:bg-gray-800">
 
@@ -292,210 +217,13 @@
 
                     <a href="/articles/culture" class="group bg-white dark:bg-gray-800 rounded-2xl shadow-lg overflow-hidden hover:shadow-2xl transition duration-300 transform hover:-translate-y-2">    <!-- Footer -->
 
-                        <div class="bg-gradient-to-br from-pink-500 to-rose-600 p-6 text-center text-white">    <footer class="bg-gray-100 dark:bg-gray-800 mt-20">
+                        <div class="bg-gradient-to-br from-pink-500 to-rose-600 p-6 text-center text-white">
 
-                            <div class="text-6xl mb-3">🎨</div>        <div class="container-custom py-12">
+    <!-- Footer Container -->
+    <div id="footer-container"></div>
 
-                            <h3 class="text-2xl font-bold">Culture</h3>            <div class="grid grid-cols-1 md:grid-cols-4 gap-8">
+    <!-- Component Loader -->
+    <script src="/assets/js/components.js"></script>
 
-                        </div>                <div>
-
-                        <div class="p-6">                    <h3 class="text-lg font-bold mb-4">About Deitheon</h3>
-
-                            <p class="text-gray-600 dark:text-gray-400 mb-4">                    <p class="text-gray-600 dark:text-gray-300">
-
-                                Explore art, music, literature, film, fashion, and cultural phenomena worldwide.                        A platform for exploring ideas across philosophy, science, and culture.
-
-                            </p>                    </p>
-
-                            <div class="text-sm text-gray-500 dark:text-gray-500">                </div>
-
-                                <i class="fas fa-book-open mr-2"></i>10 Articles                <div>
-
-                            </div>                    <h3 class="text-lg font-bold mb-4">Categories</h3>
-
-                        </div>                    <ul class="space-y-2">
-
-                    </a>                        <li><a href="/articles/philosophy" class="nav-link">Philosophy</a></li>
-
-                        <li><a href="/articles/science" class="nav-link">Science</a></li>
-
-                    <!-- Food Category -->                        <li><a href="/articles/psychology" class="nav-link">Psychology</a></li>
-
-                    <a href="/articles/food" class="group bg-white dark:bg-gray-800 rounded-2xl shadow-lg overflow-hidden hover:shadow-2xl transition duration-300 transform hover:-translate-y-2">                        <li><a href="/articles/society" class="nav-link">Society</a></li>
-
-                        <div class="bg-gradient-to-br from-orange-500 to-amber-600 p-6 text-center text-white">                    </ul>
-
-                            <div class="text-6xl mb-3">🍽️</div>                </div>
-
-                            <h3 class="text-2xl font-bold">Food</h3>                <div>
-
-                        </div>                    <h3 class="text-lg font-bold mb-4">Connect</h3>
-
-                        <div class="p-6">                    <ul class="space-y-2">
-
-                            <p class="text-gray-600 dark:text-gray-400 mb-4">                        <li><a href="/contact.html" class="nav-link">Contact</a></li>
-
-                                Dive into culinary arts, nutrition, food science, and sustainable dining practices.                        <li><a href="/about.html" class="nav-link">About</a></li>
-
-                            </p>                        <li><a href="/privacy.html" class="nav-link">Privacy Policy</a></li>
-
-                            <div class="text-sm text-gray-500 dark:text-gray-500">                        <li><a href="/terms.html" class="nav-link">Terms of Use</a></li>
-
-                                <i class="fas fa-book-open mr-2"></i>8 Articles                    </ul>
-
-                            </div>                </div>
-
-                        </div>                <div>
-
-                    </a>                    <h3 class="text-lg font-bold mb-4">Newsletter</h3>
-
-                    <form class="space-y-4">
-
-                    <!-- Tech Category -->                        <input type="email" 
-
-                    <a href="/articles/tech" class="group bg-white dark:bg-gray-800 rounded-2xl shadow-lg overflow-hidden hover:shadow-2xl transition duration-300 transform hover:-translate-y-2">                               placeholder="Enter your email" 
-
-                        <div class="bg-gradient-to-br from-blue-500 to-cyan-600 p-6 text-center text-white">                               class="w-full px-4 py-2 rounded-md bg-white dark:bg-gray-900 focus:outline-none focus:ring-2 focus:ring-blue-500">
-
-                            <div class="text-6xl mb-3">💻</div>                        <button type="submit" class="btn btn-primary w-full">Subscribe</button>
-
-                            <h3 class="text-2xl font-bold">Technology</h3>                    </form>
-
-                        </div>                </div>
-
-                        <div class="p-6">            </div>
-
-                            <p class="text-gray-600 dark:text-gray-400 mb-4">        </div>
-
-                                Stay updated with the latest in tech innovation, AI, software, and digital transformation.    </footer>
-
-                            </p>
-
-                            <div class="text-sm text-gray-500 dark:text-gray-500">    <!-- Scripts -->
-
-                                <i class="fas fa-book-open mr-2"></i>14 Articles    <script src="/assets/js/main.js" defer></script>
-
-                            </div></body>
-
-                        </div></html>
-                    </a>
-
-                    <!-- Politics Category -->
-                    <a href="/articles/politics" class="group bg-white dark:bg-gray-800 rounded-2xl shadow-lg overflow-hidden hover:shadow-2xl transition duration-300 transform hover:-translate-y-2">
-                        <div class="bg-gradient-to-br from-red-500 to-pink-600 p-6 text-center text-white">
-                            <div class="text-6xl mb-3">⚖️</div>
-                            <h3 class="text-2xl font-bold">Politics</h3>
-                        </div>
-                        <div class="p-6">
-                            <p class="text-gray-600 dark:text-gray-400 mb-4">
-                                Critical analysis of political systems, governance, policy, and global affairs.
-                            </p>
-                            <div class="text-sm text-gray-500 dark:text-gray-500">
-                                <i class="fas fa-book-open mr-2"></i>11 Articles
-                            </div>
-                        </div>
-                    </a>
-
-                </div>
-            </div>
-        </section>
-
-        <!-- Stats Section -->
-        <section class="py-20 bg-gray-50 dark:bg-gray-800/50">
-            <div class="container mx-auto px-4">
-                <div class="text-center mb-12">
-                    <h2 class="text-4xl font-bold mb-6">Our Growing Library 📊</h2>
-                </div>
-                <div class="max-w-4xl mx-auto grid grid-cols-2 md:grid-cols-4 gap-8 text-center">
-                    <div class="bg-white dark:bg-gray-800 p-6 rounded-xl shadow-lg">
-                        <div class="text-4xl font-bold text-blue-600 dark:text-blue-400 mb-2">500+</div>
-                        <div class="text-gray-600 dark:text-gray-400">Total Articles</div>
-                    </div>
-                    <div class="bg-white dark:bg-gray-800 p-6 rounded-xl shadow-lg">
-                        <div class="text-4xl font-bold text-purple-600 dark:text-purple-400 mb-2">8</div>
-                        <div class="text-gray-600 dark:text-gray-400">Categories</div>
-                    </div>
-                    <div class="bg-white dark:bg-gray-800 p-6 rounded-xl shadow-lg">
-                        <div class="text-4xl font-bold text-green-600 dark:text-green-400 mb-2">50+</div>
-                        <div class="text-gray-600 dark:text-gray-400">Topics</div>
-                    </div>
-                    <div class="bg-white dark:bg-gray-800 p-6 rounded-xl shadow-lg">
-                        <div class="text-4xl font-bold text-orange-600 dark:text-orange-400 mb-2">Weekly</div>
-                        <div class="text-gray-600 dark:text-gray-400">Updates</div>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <!-- CTA Section -->
-        <section class="py-20 bg-gradient-to-r from-purple-600 to-indigo-600">
-            <div class="container mx-auto px-4 text-center text-white">
-                <h2 class="text-3xl md:text-4xl font-bold mb-6">Can't Find What You're Looking For? 🔍</h2>
-                <p class="text-xl mb-8 max-w-2xl mx-auto opacity-90">
-                    Use our smart search to find exactly the article you need, or explore by category.
-                </p>
-                <a href="/categories" class="inline-block px-8 py-4 bg-white text-purple-600 rounded-full hover:bg-gray-100 transition font-semibold shadow-lg hover:shadow-xl text-lg">
-                    View Categories
-                </a>
-            </div>
-        </section>
-    </main>
-
-    <!-- Footer -->
-    <footer class="bg-gray-900 text-gray-400">
-        <div class="container mx-auto px-4 py-12">
-            <div class="grid grid-cols-1 md:grid-cols-4 gap-8">
-                <div class="md:col-span-2">
-                    <h3 class="text-2xl font-bold text-white mb-4">DeiTheon</h3>
-                    <p class="mb-4">Where ideas, innovation, and insight converge. 💡</p>
-                    <div class="flex space-x-4">
-                        <a href="#" class="hover:text-white transition"><i class="fab fa-twitter"></i></a>
-                        <a href="#" class="hover:text-white transition"><i class="fab fa-linkedin"></i></a>
-                        <a href="#" class="hover:text-white transition"><i class="fab fa-github"></i></a>
-                    </div>
-                </div>
-                <div>
-                    <h4 class="text-white font-semibold mb-4">Quick Links</h4>
-                    <ul class="space-y-2">
-                        <li><a href="/" class="hover:text-white transition">Home</a></li>
-                        <li><a href="/about" class="hover:text-white transition">About</a></li>
-                        <li><a href="/privacy.html" class="hover:text-white transition">Privacy</a></li>
-                        <li><a href="/contact" class="hover:text-white transition">Contact</a></li>
-                    </ul>
-                </div>
-                <div>
-                    <h4 class="text-white font-semibold mb-4">Categories</h4>
-                    <ul class="space-y-2">
-                        <li><a href="/articles/tech" class="hover:text-white transition">Technology</a></li>
-                        <li><a href="/articles/philosophy" class="hover:text-white transition">Philosophy</a></li>
-                        <li><a href="/articles/culture" class="hover:text-white transition">Culture</a></li>
-                        <li><a href="/articles/science" class="hover:text-white transition">Science</a></li>
-                    </ul>
-                </div>
-            </div>
-            <div class="border-t border-gray-800 mt-12 pt-8 text-center">
-                <p>&copy; 2025 DeiTheon. All rights reserved.</p>
-            </div>
-        </div>
-    </footer>
-
-    <!-- Scripts -->
-    <script>
-        // Theme toggle
-        const themeToggleBtn = document.getElementById('themeToggle');
-        themeToggleBtn.addEventListener('click', () => {
-            document.documentElement.classList.toggle('dark');
-            localStorage.theme = document.documentElement.classList.contains('dark') ? 'dark' : 'light';
-        });
-
-        // Mobile menu
-        const mobileMenuBtn = document.getElementById('mobileMenuBtn');
-        const mobileMenu = document.getElementById('mobileMenu');
-        mobileMenuBtn.addEventListener('click', () => {
-            const isHidden = mobileMenu.classList.toggle('hidden');
-            mobileMenu.setAttribute('aria-hidden', isHidden);
-        });
-    </script>
 </body>
 </html>

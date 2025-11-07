@@ -1,8 +1,10 @@
 <!DOCTYPE html>
 <html lang="en" class="scroll-smooth">
 <head>
+
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="/assets/images/favicon.png" type="image/x-icon">
     <title>Contact Us 📧 - DeiTheon</title>
     <meta name="description" content="Get in touch with DeiTheon. We'd love to hear from you! Send us a message, share feedback, or collaborate with us.">
     <link href="/assets/css/styles.css" rel="stylesheet">
@@ -14,50 +16,13 @@
             document.documentElement.classList.remove('dark');
         }
     </script>
+
 </head>
 <body class="bg-white dark:bg-gray-900 text-gray-800 dark:text-gray-200 min-h-screen flex flex-col">
-    <!-- Header/Navbar -->
-    <header class="fixed w-full bg-white/95 dark:bg-gray-900/95 backdrop-blur-sm z-50 border-b border-gray-200 dark:border-gray-800">
-        <nav class="container mx-auto px-4 py-3">
-            <div class="flex items-center justify-between">
-                <!-- Logo -->
-                <a href="/" class="text-2xl font-bold text-blue-600 dark:text-blue-400">DeiTheon</a>
-                
-                <!-- Desktop Navigation -->
-                <div class="hidden md:flex items-center space-x-8">
-                    <a href="/" class="hover:text-blue-600 dark:hover:text-blue-400 transition">Home</a>
-                    <a href="/categories" class="hover:text-blue-600 dark:hover:text-blue-400 transition">Categories</a>
-                    <a href="/articles" class="hover:text-blue-600 dark:hover:text-blue-400 transition">Articles</a>
-                    <a href="/about" class="hover:text-blue-600 dark:hover:text-blue-400 transition">About</a>
-                    <a href="/contact" class="text-blue-600 dark:text-blue-400 font-semibold">Contact</a>
-                    
-                    <!-- Theme Toggle -->
-                    <button id="themeToggle" class="p-2 rounded-full hover:bg-gray-100 dark:hover:bg-gray-800 transition">
-                        <i class="fas fa-sun dark:hidden"></i>
-                        <i class="fas fa-moon hidden dark:block"></i>
-                    </button>
-                </div>
+    <!-- Navbar Container -->
+    <div id="navbar-container"></div>
 
-                <!-- Mobile Menu Button -->
-                <button class="md:hidden p-2" id="mobileMenuBtn">
-                    <i class="fas fa-bars text-2xl"></i>
-                </button>
-            </div>
-
-            <!-- Mobile Menu -->
-            <div class="md:hidden hidden" id="mobileMenu" aria-hidden="true">
-                <div class="py-4 space-y-4">
-                    <a href="/" class="block hover:text-blue-600 dark:hover:text-blue-400">Home</a>
-                    <a href="/categories" class="block hover:text-blue-600 dark:hover:text-blue-400">Categories</a>
-                    <a href="/articles" class="block hover:text-blue-600 dark:hover:text-blue-400">Articles</a>
-                    <a href="/about" class="block hover:text-blue-600 dark:hover:text-blue-400">About</a>
-                    <a href="/contact" class="block text-blue-600 dark:text-blue-400 font-semibold">Contact</a>
-                </div>
-            </div>
-        </nav>
-    </header>
-
-    <!-- Main Content -->
+<!-- Main Content -->
     <main class="flex-grow pt-16">
         <!-- Hero Section -->
         <section class="relative bg-gradient-to-br from-blue-50 to-cyan-100 dark:from-gray-800 dark:to-gray-900 py-20 md:py-32">
@@ -257,86 +222,12 @@
     </main>
 
     <!-- Footer -->
-    <footer class="bg-gray-900 text-gray-400">
-        <div class="container mx-auto px-4 py-12">
-            <div class="grid grid-cols-1 md:grid-cols-4 gap-8">
-                <div class="md:col-span-2">
-                    <h3 class="text-2xl font-bold text-white mb-4">DeiTheon</h3>
-                    <p class="mb-4">Where ideas, innovation, and insight converge. 💡</p>
-                    <div class="flex space-x-4">
-                        <a href="#" class="hover:text-white transition"><i class="fab fa-twitter"></i></a>
-                        <a href="#" class="hover:text-white transition"><i class="fab fa-linkedin"></i></a>
-                        <a href="#" class="hover:text-white transition"><i class="fab fa-github"></i></a>
-                    </div>
-                </div>
-                <div>
-                    <h4 class="text-white font-semibold mb-4">Quick Links</h4>
-                    <ul class="space-y-2">
-                        <li><a href="/" class="hover:text-white transition">Home</a></li>
-                        <li><a href="/about" class="hover:text-white transition">About</a></li>
-                        <li><a href="/privacy.html" class="hover:text-white transition">Privacy</a></li>
-                        <li><a href="/contact" class="hover:text-white transition">Contact</a></li>
-                    </ul>
-                </div>
-                <div>
-                    <h4 class="text-white font-semibold mb-4">Categories</h4>
-                    <ul class="space-y-2">
-                        <li><a href="/articles/tech" class="hover:text-white transition">Technology</a></li>
-                        <li><a href="/articles/philosophy" class="hover:text-white transition">Philosophy</a></li>
-                        <li><a href="/articles/culture" class="hover:text-white transition">Culture</a></li>
-                        <li><a href="/articles/science" class="hover:text-white transition">Science</a></li>
-                    </ul>
-                </div>
-            </div>
-            <div class="border-t border-gray-800 mt-12 pt-8 text-center">
-                <p>&copy; 2025 DeiTheon. All rights reserved.</p>
-            </div>
-        </div>
-    </footer>
 
-    <!-- Scripts -->
-    <script>
-        // Theme toggle
-        const themeToggleBtn = document.getElementById('themeToggle');
-        themeToggleBtn.addEventListener('click', () => {
-            document.documentElement.classList.toggle('dark');
-            localStorage.theme = document.documentElement.classList.contains('dark') ? 'dark' : 'light';
-        });
+    <!-- Footer Container -->
+    <div id="footer-container"></div>
 
-        // Mobile menu
-        const mobileMenuBtn = document.getElementById('mobileMenuBtn');
-        const mobileMenu = document.getElementById('mobileMenu');
-        mobileMenuBtn.addEventListener('click', () => {
-            const isHidden = mobileMenu.classList.toggle('hidden');
-            mobileMenu.setAttribute('aria-hidden', isHidden);
-        });
+    <!-- Component Loader -->
+    <script src="/assets/js/components.js"></script>
 
-        // Contact form handling
-        const contactForm = document.getElementById('contactForm');
-        const formMessage = document.getElementById('formMessage');
-        
-        contactForm.addEventListener('submit', (e) => {
-            e.preventDefault();
-            
-            // Get form data
-            const formData = {
-                name: document.getElementById('name').value,
-                email: document.getElementById('email').value,
-                subject: document.getElementById('subject').value,
-                message: document.getElementById('message').value
-            };
-            
-            // Simulate form submission (replace with actual API call)
-            formMessage.textContent = `Thanks ${formData.name}! We've received your message and will get back to you soon. 🎉`;
-            formMessage.classList.remove('text-red-600');
-            formMessage.classList.add('text-green-600');
-            formMessage.style.opacity = '1';
-            contactForm.reset();
-            
-            setTimeout(() => {
-                formMessage.style.opacity = '0';
-            }, 5000);
-        });
-    </script>
 </body>
 </html>
