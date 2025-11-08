@@ -1,0 +1,513 @@
+1:"$Sreact.fragment"
+2:I[3549,["549","static/chunks/549-de178229b97c5a57.js","904","static/chunks/app/articles/%5Bslug%5D/page-b4feb5d14a6717da.js"],""]
+11:I[8937,[],"OutletBoundary"]
+12:"$Sreact.suspense"
+0:{"buildId":"build-1762600831878","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-gradient-to-b from-background to-muted/10","children":["$","div",null,{"className":"container mx-auto px-4 sm:px-6 lg:px-8 py-8","children":[["$","div",null,{"className":"mb-8","children":["$","$L2",null,{"href":"/articles","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left mr-2 h-4 w-4 group-hover:-translate-x-1 transition-transform","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],"Back to Articles"],"data-slot":"button","className":"inline-flex items-center justify-center whitespace-nowrap text-sm font-medium disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg:not([class*='size-'])]:size-4 shrink-0 [&_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive hover:text-accent-foreground dark:hover:bg-accent/50 h-8 rounded-md gap-1.5 px-3 has-[>svg]:px-2.5 group hover:bg-primary/10 transition-all duration-300","ref":null}]}],["$","div",null,{"className":"grid grid-cols-1 lg:grid-cols-4 gap-8","children":[["$","div",null,{"className":"lg:col-span-3","children":[["$","article",null,{"className":"bg-background/80 backdrop-blur-sm rounded-2xl border shadow-xl p-8 lg:p-12","children":[["$","header",null,{"className":"mb-12 text-center lg:text-left","children":[["$","div",null,{"className":"flex flex-wrap items-center justify-center lg:justify-start gap-3 mb-6","children":[["$","span",null,{"data-slot":"badge","className":"inline-flex items-center justify-center rounded-full border font-medium w-fit whitespace-nowrap shrink-0 [&>svg]:size-3 gap-1 [&>svg]:pointer-events-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive transition-[color,box-shadow] overflow-hidden [a&]:hover:bg-secondary/90 bg-primary/10 text-primary border-primary/20 text-sm px-3 py-1","children":["🧠"," ","philosophy"]}],"$undefined"]}],["$","h1",null,{"className":"text-3xl md:text-4xl lg:text-5xl font-bold tracking-tight mb-6 bg-gradient-to-r from-primary via-purple-600 to-primary/80 bg-clip-text text-transparent leading-tight","children":"Aristotelian Virtue Ethics: The Golden Mean and Human Flourishing 🌟⚖️"}],["$","p",null,{"className":"text-xl md:text-2xl text-muted-foreground mb-8 leading-relaxed max-w-4xl mx-auto lg:mx-0","children":["Exploring Aristotle's timeless approach to ethics through virtue, character, and the pursuit of eudaimonia - a life well-lived."," ✨"]}],["$","div",null,{"className":"flex flex-wrap items-center justify-center lg:justify-start gap-6 text-base text-muted-foreground","children":[["$","div",null,{"className":"flex items-center gap-2 bg-muted/50 rounded-full px-4 py-2","children":[["$","span",null,{"className":"text-lg","children":"📅"}],["$","span",null,{"children":"November 8, 2024"}]]}],["$","div",null,{"className":"flex items-center gap-2 bg-muted/50 rounded-full px-4 py-2","children":[["$","span",null,{"className":"text-lg","children":"⏱️"}],["$","span",null,{"children":"9 min read"}]]}],["$","div",null,{"className":"flex items-center gap-1","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-eye h-4 w-4","aria-hidden":"true","children":["$L3","$L4","$undefined"]}],"By ","Prof. Marcus Williams"]}]]}],"$L5"]}],"$L6"]}],"$L7"]}],"$L8"]}]]}]}],null,"$L9"]}],"loading":null,"isPartial":false}
+3:["$","path","1nclc0",{"d":"M2.062 12.348a1 1 0 0 1 0-.696 10.75 10.75 0 0 1 19.876 0 1 1 0 0 1 0 .696 10.75 10.75 0 0 1-19.876 0"}]
+4:["$","circle","1v7zrd",{"cx":"12","cy":"12","r":"3"}]
+5:["$","div",null,{"className":"flex flex-wrap gap-2 mt-4","children":[["$","span","virtue ethics",{"data-slot":"badge","className":"inline-flex items-center justify-center rounded-full border px-2 py-0.5 font-medium w-fit whitespace-nowrap shrink-0 [&>svg]:size-3 gap-1 [&>svg]:pointer-events-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive transition-[color,box-shadow] overflow-hidden text-foreground [a&]:hover:bg-accent [a&]:hover:text-accent-foreground text-xs","children":"virtue ethics"}],["$","span","Aristotle",{"data-slot":"badge","className":"inline-flex items-center justify-center rounded-full border px-2 py-0.5 font-medium w-fit whitespace-nowrap shrink-0 [&>svg]:size-3 gap-1 [&>svg]:pointer-events-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive transition-[color,box-shadow] overflow-hidden text-foreground [a&]:hover:bg-accent [a&]:hover:text-accent-foreground text-xs","children":"Aristotle"}],["$","span","eudaimonia",{"data-slot":"badge","className":"inline-flex items-center justify-center rounded-full border px-2 py-0.5 font-medium w-fit whitespace-nowrap shrink-0 [&>svg]:size-3 gap-1 [&>svg]:pointer-events-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive transition-[color,box-shadow] overflow-hidden text-foreground [a&]:hover:bg-accent [a&]:hover:text-accent-foreground text-xs","children":"eudaimonia"}],["$","span","golden mean",{"data-slot":"badge","className":"inline-flex items-center justify-center rounded-full border px-2 py-0.5 font-medium w-fit whitespace-nowrap shrink-0 [&>svg]:size-3 gap-1 [&>svg]:pointer-events-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive transition-[color,box-shadow] overflow-hidden text-foreground [a&]:hover:bg-accent [a&]:hover:text-accent-foreground text-xs","children":"golden mean"}],["$","span","character",{"data-slot":"badge","className":"inline-flex items-center justify-center rounded-full border px-2 py-0.5 font-medium w-fit whitespace-nowrap shrink-0 [&>svg]:size-3 gap-1 [&>svg]:pointer-events-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive transition-[color,box-shadow] overflow-hidden text-foreground [a&]:hover:bg-accent [a&]:hover:text-accent-foreground text-xs","children":"character"}],["$","span","moral philosophy",{"data-slot":"badge","className":"inline-flex items-center justify-center rounded-full border px-2 py-0.5 font-medium w-fit whitespace-nowrap shrink-0 [&>svg]:size-3 gap-1 [&>svg]:pointer-events-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive transition-[color,box-shadow] overflow-hidden text-foreground [a&]:hover:bg-accent [a&]:hover:text-accent-foreground text-xs","children":"moral philosophy"}]]}]
+a:T342d,<h1>Aristotelian Virtue Ethics: The Golden Mean and Human Flourishing 🌟⚖️</h1>
+<p>In a world obsessed with rules and consequences, ancient Greek philosopher Aristotle offered a different approach to ethics: focus not on what you should do, but on who you should become. His virtue ethics, developed over 2,300 years ago, remains startlingly relevant today.</p>
+<h2>What Makes a Life Worth Living? 🤔</h2>
+<p>Aristotle began the <em>Nicomachean Ethics</em> with a deceptively simple question: <strong>What is the highest good for human beings?</strong> His answer: <strong>eudaimonia</strong> (εὐδαιμονία) - often translated as happiness, but better understood as human flourishing or living well.</p>
+<h3>Eudaimonia: More Than Pleasure 🌱</h3>
+<p>Unlike hedonistic happiness, eudaimonia is:</p>
+<ul>
+<li><strong>Objective</strong> 📏 - Not just feeling good, but actually living well</li>
+<li><strong>Activity-based</strong> 🏃‍♀️ - Not a state but a way of being</li>
+<li><strong>Complete</strong> 🎯 - The final goal that makes life worthwhile</li>
+<li><strong>Self-sufficient</strong> 💎 - Lacking nothing essential for the good life</li>
+</ul>
+<p>Think of it this way: A master musician experiences eudaimonia not just from applause, but from the excellent performance itself - the actualization of their potential through virtuous activity.</p>
+<h2>The Function Argument: What Are Humans For? 🎭</h2>
+<p>Aristotle's famous <strong>function argument</strong> suggests that everything has a purpose (telos):</p>
+<ul>
+<li><strong>Eyes</strong> 👁️ are for seeing</li>
+<li><strong>Knives</strong> 🔪 are for cutting</li>
+<li><strong>Hearts</strong> ❤️ are for pumping blood</li>
+</ul>
+<p>So what is the function of human beings? Aristotle argued it's the activity of the soul in accordance with virtue - essentially, <strong>rational activity guided by excellence of character</strong>.</p>
+<h2>Virtue: Excellence of Character 💪</h2>
+<p>For Aristotle, <strong>virtue (arete)</strong> means excellence - not moral perfection, but the skillful mastery of being human. Just as a master craftsperson excels at their craft, a virtuous person excels at living.</p>
+<h3>Two Types of Virtue 🎭</h3>
+<h4>1. Intellectual Virtues 🧠</h4>
+<ul>
+<li><strong>Sophia</strong> - Theoretical wisdom (understanding eternal truths)</li>
+<li><strong>Phronesis</strong> - Practical wisdom (knowing how to act in specific situations)</li>
+<li><strong>Episteme</strong> - Scientific knowledge</li>
+<li><strong>Nous</strong> - Intuitive understanding</li>
+<li><strong>Techne</strong> - Craft knowledge</li>
+</ul>
+<h4>2. Moral Virtues ❤️</h4>
+<p>Character traits developed through practice:</p>
+<ul>
+<li><strong>Courage</strong> 🦁 - Proper response to danger</li>
+<li><strong>Temperance</strong> ⚖️ - Moderation in pleasure</li>
+<li><strong>Justice</strong> 👨‍⚖️ - Giving each their due</li>
+<li><strong>Generosity</strong> 🎁 - Appropriate giving</li>
+<li><strong>Pride</strong> 👑 - Proper self-regard (not arrogance!)</li>
+</ul>
+<h2>The Golden Mean: Finding Balance ⚖️</h2>
+<p>Aristotle's most famous contribution to ethics is the <strong>Doctrine of the Golden Mean</strong> - the idea that moral virtue lies between extremes of excess and deficiency.</p>
+<h3>Examples of the Golden Mean 📊</h3>
+<table>
+<thead>
+<tr>
+<th>Deficiency (Vice)</th>
+<th>Mean (Virtue)</th>
+<th>Excess (Vice)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Cowardice 😨</td>
+<td>Courage 🦁</td>
+<td>Recklessness 💥</td>
+</tr>
+<tr>
+<td>Stinginess 💸</td>
+<td>Generosity 🎁</td>
+<td>Wastefulness 💰</td>
+</tr>
+<tr>
+<td>Self-deprecation 😔</td>
+<td>Proper Pride 👑</td>
+<td>Arrogance 😤</td>
+</tr>
+<tr>
+<td>Insensitivity 😐</td>
+<td>Friendliness 😊</td>
+<td>Obsequiousness 😬</td>
+</tr>
+<tr>
+<td>Shamelessness 😈</td>
+<td>Modesty 😌</td>
+<td>Bashfulness 😳</td>
+</tr>
+</tbody>
+</table>
+<h3>Finding Your Mean 🎯</h3>
+<p>The mean isn't mathematical - it's <strong>relative to the individual and situation</strong>:</p>
+<ul>
+<li>A trained athlete needs more food than a sedentary person 🏃‍♂️🍽️</li>
+<li>A general requires different courage than a firefighter 👨‍🚒⚔️</li>
+<li>Generosity varies with wealth and circumstances 💎🤝</li>
+</ul>
+<p>The key is <strong>practical wisdom (phronesis)</strong> - the ability to discern the right action in the right circumstances.</p>
+<h2>How Virtue Develops: The Power of Habit 🔄</h2>
+<p>Aristotle's insight: <strong>"We are what we repeatedly do. Excellence, then, is not an act, but a habit."</strong></p>
+<h3>The Virtue Development Process 🌱➡️🌳</h3>
+<ol>
+<li><strong>Mimicry</strong> 👥 - Children imitate virtuous role models</li>
+<li><strong>Repetition</strong> 🔄 - Repeated virtuous actions form habits</li>
+<li><strong>Integration</strong> 🧩 - Habits become second nature</li>
+<li><strong>Mastery</strong> 🎯 - Virtue becomes effortless and joyful</li>
+</ol>
+<p>It's like learning to play piano: first awkward practice, then muscle memory, finally artistic expression.</p>
+<h3>The Role of Education 📚</h3>
+<p>Education shapes character by:</p>
+<ul>
+<li><strong>Modeling virtue</strong> 👨‍🏫 - Teachers exemplify excellence</li>
+<li><strong>Creating good habits</strong> 📝 - Structured practice of virtuous behavior</li>
+<li><strong>Developing practical wisdom</strong> 🧠 - Learning to judge specific situations</li>
+<li><strong>Fostering love of excellence</strong> ❤️ - Making virtue intrinsically rewarding</li>
+</ul>
+<h2>Practical Wisdom: The Master Virtue 🧭</h2>
+<p><strong>Phronesis (practical wisdom)</strong> is the crown jewel of Aristotelian ethics. It's the ability to:</p>
+<ul>
+<li><strong>Perceive situations accurately</strong> 👁️ - Seeing what's really happening</li>
+<li><strong>Deliberate well</strong> 🤔 - Considering options and consequences</li>
+<li><strong>Choose the right action</strong> ✅ - Selecting the virtuous response</li>
+<li><strong>Act at the right time</strong> ⏰ - Timing matters in ethics</li>
+</ul>
+<h3>Examples of Practical Wisdom in Action 🎬</h3>
+<p><strong>Scenario 1: The Honest Friend</strong> 👫
+Your friend asks if their new haircut looks good. It doesn't.</p>
+<ul>
+<li><strong>Deficiency</strong>: Brutal honesty that crushes their confidence</li>
+<li><strong>Excess</strong>: False praise that enables poor choices</li>
+<li><strong>Mean</strong>: Gentle, constructive feedback that maintains the relationship while helping them improve</li>
+</ul>
+<p><strong>Scenario 2: The Workplace Dilemma</strong> 💼
+You discover a colleague is falsifying reports.</p>
+<ul>
+<li><strong>Deficiency</strong>: Ignoring it to avoid conflict</li>
+<li><strong>Excess</strong>: Immediately exposing them publicly</li>
+<li><strong>Mean</strong>: Addressing it directly with them first, escalating only if necessary</li>
+</ul>
+<h2>The Unity of the Virtues 🔗</h2>
+<p>Aristotle argued that virtues are interconnected - you can't truly have one without the others. Why?</p>
+<h3>The Interconnection Web 🕸️</h3>
+<ul>
+<li><strong>Courage without justice</strong> ⚔️❌ = Mere recklessness serving wrong ends</li>
+<li><strong>Generosity without prudence</strong> 🎁❌ = Wasteful giving that helps no one</li>
+<li><strong>Honesty without kindness</strong> 🗣️❌ = Cruel truth-telling that destroys relationships</li>
+</ul>
+<p><strong>True virtue requires practical wisdom</strong> to coordinate all virtues harmoniously.</p>
+<h2>Friendship: The Highest Human Relationship 👫</h2>
+<p>Aristotle devoted two entire books of the <em>Nicomachean Ethics</em> to friendship, identifying three types:</p>
+<h3>1. Utility Friendships 🤝</h3>
+<ul>
+<li>Based on mutual benefit</li>
+<li>Common in business and politics</li>
+<li>End when usefulness ends</li>
+<li><em>Example</em>: Professional networking relationships</li>
+</ul>
+<h3>2. Pleasure Friendships 🎉</h3>
+<ul>
+<li>Based on enjoyment and fun</li>
+<li>Common among young people</li>
+<li>Fade when shared interests change</li>
+<li><em>Example</em>: Party buddies or hobby groups</li>
+</ul>
+<h3>3. Character Friendships 💎</h3>
+<ul>
+<li>Based on mutual respect for virtue</li>
+<li>Rare but lasting</li>
+<li>Friends love each other for who they are</li>
+<li><em>Example</em>: Lifelong companions who support each other's growth</li>
+</ul>
+<p><strong>Perfect friendship</strong> combines all three: friends who are useful to each other, enjoy each other's company, and admire each other's character.</p>
+<h2>Modern Applications: Virtue Ethics Today 🌍</h2>
+<h3>In Personal Development 🌱</h3>
+<ul>
+<li><strong>Focus on character</strong> rather than just behavior modification</li>
+<li><strong>Develop habits</strong> that express your best self</li>
+<li><strong>Seek mentors</strong> who model excellence</li>
+<li><strong>Practice self-reflection</strong> to develop practical wisdom</li>
+</ul>
+<h3>In Leadership 👑</h3>
+<ul>
+<li><strong>Lead by example</strong> rather than just rules</li>
+<li><strong>Develop others' potential</strong> through virtue education</li>
+<li><strong>Make decisions</strong> based on long-term flourishing, not just short-term gains</li>
+<li><strong>Balance competing goods</strong> through practical wisdom</li>
+</ul>
+<h3>In Professional Ethics 💼</h3>
+<ul>
+<li><strong>Excellence in craft</strong> as moral obligation</li>
+<li><strong>Integrity</strong> as fundamental to professional identity</li>
+<li><strong>Service</strong> as expression of virtue</li>
+<li><strong>Mentorship</strong> as passing on excellence</li>
+</ul>
+<h3>In Relationships ❤️</h3>
+<ul>
+<li><strong>Character compatibility</strong> as foundation for lasting bonds</li>
+<li><strong>Mutual growth</strong> in virtue and wisdom</li>
+<li><strong>Honest communication</strong> balanced with kindness</li>
+<li><strong>Long-term commitment</strong> to each other's flourishing</li>
+</ul>
+<h2>Challenges to Virtue Ethics 🤔</h2>
+<h3>The Situationist Challenge 🎭</h3>
+<p>Modern psychology suggests behavior varies more with situation than character. Response: Virtue ethics doesn't deny situational influence, but argues that virtuous people respond better across situations.</p>
+<h3>The Cultural Relativism Challenge 🌍</h3>
+<p>Are virtues universal or culturally relative? Aristotle's virtues seem Greek and male-centered. Response: Core virtues may be universal (courage, justice), but their expression varies culturally.</p>
+<h3>The Action Guidance Problem 🤷‍♀️</h3>
+<p>Critics argue virtue ethics doesn't provide clear action guidance. Response: It provides the framework (develop practical wisdom) and the goal (human flourishing), which is more flexible than rigid rules.</p>
+<h2>The Enduring Wisdom 🌟</h2>
+<p>Why does Aristotelian virtue ethics remain compelling after 2,300 years?</p>
+<h3>It's Holistic 🧩</h3>
+<ul>
+<li>Integrates emotion, reason, and action</li>
+<li>Considers the whole person, not just behavior</li>
+<li>Balances individual and community good</li>
+</ul>
+<h3>It's Realistic 🎯</h3>
+<ul>
+<li>Acknowledges moral complexity</li>
+<li>Allows for gradual development</li>
+<li>Expects setbacks and growth</li>
+</ul>
+<h3>It's Inspiring 🚀</h3>
+<ul>
+<li>Points toward human potential</li>
+<li>Makes ethics about excellence, not just rules</li>
+<li>Connects morality to meaning and fulfillment</li>
+</ul>
+<h2>Living the Virtuous Life Today 🌅</h2>
+<p>How can we apply Aristotelian insights in the 21st century?</p>
+<h3>Daily Practices 📅</h3>
+<ol>
+<li><strong>Morning reflection</strong> 🌅 - What virtues will I practice today?</li>
+<li><strong>Mindful choices</strong> 🧠 - Pause before acting to consider the virtuous response</li>
+<li><strong>Evening review</strong> 🌙 - How did I express (or fail to express) virtue today?</li>
+<li><strong>Seek feedback</strong> 👥 - Ask trusted friends about your character</li>
+</ol>
+<h3>Long-term Development 📈</h3>
+<ol>
+<li><strong>Choose role models</strong> 🌟 - Study people who embody virtue</li>
+<li><strong>Practice deliberately</strong> 🎯 - Work on specific virtues systematically</li>
+<li><strong>Embrace challenges</strong> 💪 - See difficulties as virtue-building opportunities</li>
+<li><strong>Build community</strong> 🏘️ - Surround yourself with people who share your values</li>
+</ol>
+<h2>Conclusion: The Path to Flourishing 🌈</h2>
+<p>Aristotle's virtue ethics offers a profound alternative to rule-based and consequence-based approaches to morality. Instead of asking "What should I do?" it asks "What kind of person should I become?"</p>
+<p>The answer: <strong>Become someone whose character has been shaped by virtue, whose actions flow from practical wisdom, and whose life expresses the full potential of human excellence.</strong></p>
+<p>This isn't about moral perfection - it's about the ongoing journey of growth, the daily practice of excellence, and the pursuit of a life that is truly worth living. In a world of quick fixes and instant gratification, Aristotle reminds us that the best things - character, wisdom, and genuine happiness - come to those who commit to the long path of virtue.</p>
+<p><em>As Aristotle might say: Excellence is not a destination, but a way of traveling. How will you travel today?</em> 🌟🛤️</p>
+6:["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"},"className":"prose-headings:scroll-mt-24"}]
+7:["$","section",null,{"className":"mt-16","children":[["$","h2",null,{"className":"text-2xl font-bold mb-6","children":"Related Articles"}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","div","nature-of-consciousness",{"data-slot":"card","className":"bg-card text-card-foreground flex flex-col gap-6 rounded-xl border py-6 shadow-sm hover:shadow-md transition-shadow","children":[["$","div",null,{"data-slot":"card-header","className":"@container/card-header grid auto-rows-min grid-rows-[auto_auto] items-start gap-2 px-6 has-data-[slot=card-action]:grid-cols-[1fr_auto] [.border-b]:pb-6 pb-3","children":[["$","span",null,{"data-slot":"badge","className":"inline-flex items-center justify-center rounded-full border px-2 py-0.5 font-medium whitespace-nowrap shrink-0 [&>svg]:size-3 gap-1 [&>svg]:pointer-events-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive transition-[color,box-shadow] overflow-hidden border-transparent bg-secondary text-secondary-foreground [a&]:hover:bg-secondary/90 w-fit mb-2 text-xs","children":"philosophy"}],["$","div",null,{"data-slot":"card-title","className":"font-semibold text-lg line-clamp-2","children":["$","$L2",null,{"href":"/articles/nature-of-consciousness","className":"hover:text-primary transition-colors","children":"The Nature of Consciousness: A Philosophical Inquiry"}]}]]}],["$","div",null,{"data-slot":"card-content","className":"px-6","children":[["$","div",null,{"data-slot":"card-description","className":"text-muted-foreground text-sm line-clamp-2","children":"Exploring the fundamental questions surrounding consciousness, its nature, and its place in our understanding of reality."}],["$","div",null,{"className":"mt-3 flex items-center justify-between","children":[["$","span",null,{"className":"text-xs text-muted-foreground","children":"4 min read"}],["$","$L2",null,{"href":"/articles/nature-of-consciousness","children":["Read",["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-right ml-1 h-3 w-3","aria-hidden":"true","children":[["$","path","1ays0h",{"d":"M5 12h14"}],["$","path","xquz4c",{"d":"m12 5 7 7-7 7"}],"$undefined"]}]],"data-slot":"button","className":"inline-flex items-center justify-center whitespace-nowrap text-sm font-medium transition-all disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg:not([class*='size-'])]:size-4 shrink-0 [&_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive hover:bg-accent hover:text-accent-foreground dark:hover:bg-accent/50 h-8 rounded-md gap-1.5 px-3 has-[>svg]:px-2.5","ref":null}]]}]]}]]}],["$","div","existentialism-authenticity",{"data-slot":"card","className":"bg-card text-card-foreground flex flex-col gap-6 rounded-xl border py-6 shadow-sm hover:shadow-md transition-shadow","children":[["$","div",null,{"data-slot":"card-header","className":"@container/card-header grid auto-rows-min grid-rows-[auto_auto] items-start gap-2 px-6 has-data-[slot=card-action]:grid-cols-[1fr_auto] [.border-b]:pb-6 pb-3","children":[["$","span",null,{"data-slot":"badge","className":"inline-flex items-center justify-center rounded-full border px-2 py-0.5 font-medium whitespace-nowrap shrink-0 [&>svg]:size-3 gap-1 [&>svg]:pointer-events-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive transition-[color,box-shadow] overflow-hidden border-transparent bg-secondary text-secondary-foreground [a&]:hover:bg-secondary/90 w-fit mb-2 text-xs","children":"philosophy"}],"$Lb"]}],"$Lc"]}],"$Ld"]}]]}]
+e:T2ad8,# Aristotelian Virtue Ethics: The Golden Mean and Human Flourishing 🌟⚖️
+
+In a world obsessed with rules and consequences, ancient Greek philosopher Aristotle offered a different approach to ethics: focus not on what you should do, but on who you should become. His virtue ethics, developed over 2,300 years ago, remains startlingly relevant today.
+
+## What Makes a Life Worth Living? 🤔
+
+Aristotle began the *Nicomachean Ethics* with a deceptively simple question: **What is the highest good for human beings?** His answer: **eudaimonia** (εὐδαιμονία) - often translated as happiness, but better understood as human flourishing or living well.
+
+### Eudaimonia: More Than Pleasure 🌱
+
+Unlike hedonistic happiness, eudaimonia is:
+
+* **Objective** 📏 - Not just feeling good, but actually living well
+* **Activity-based** 🏃‍♀️ - Not a state but a way of being
+* **Complete** 🎯 - The final goal that makes life worthwhile
+* **Self-sufficient** 💎 - Lacking nothing essential for the good life
+
+Think of it this way: A master musician experiences eudaimonia not just from applause, but from the excellent performance itself - the actualization of their potential through virtuous activity.
+
+## The Function Argument: What Are Humans For? 🎭
+
+Aristotle's famous **function argument** suggests that everything has a purpose (telos):
+
+* **Eyes** 👁️ are for seeing
+* **Knives** 🔪 are for cutting
+* **Hearts** ❤️ are for pumping blood
+
+So what is the function of human beings? Aristotle argued it's the activity of the soul in accordance with virtue - essentially, **rational activity guided by excellence of character**.
+
+## Virtue: Excellence of Character 💪
+
+For Aristotle, **virtue (arete)** means excellence - not moral perfection, but the skillful mastery of being human. Just as a master craftsperson excels at their craft, a virtuous person excels at living.
+
+### Two Types of Virtue 🎭
+
+#### 1. Intellectual Virtues 🧠
+
+* **Sophia** - Theoretical wisdom (understanding eternal truths)
+* **Phronesis** - Practical wisdom (knowing how to act in specific situations)
+* **Episteme** - Scientific knowledge
+* **Nous** - Intuitive understanding
+* **Techne** - Craft knowledge
+
+#### 2. Moral Virtues ❤️
+
+Character traits developed through practice:
+
+* **Courage** 🦁 - Proper response to danger
+* **Temperance** ⚖️ - Moderation in pleasure
+* **Justice** 👨‍⚖️ - Giving each their due
+* **Generosity** 🎁 - Appropriate giving
+* **Pride** 👑 - Proper self-regard (not arrogance!)
+
+## The Golden Mean: Finding Balance ⚖️
+
+Aristotle's most famous contribution to ethics is the **Doctrine of the Golden Mean** - the idea that moral virtue lies between extremes of excess and deficiency.
+
+### Examples of the Golden Mean 📊
+
+| Deficiency (Vice) | Mean (Virtue) | Excess (Vice) |
+|-------------------|---------------|---------------|
+| Cowardice 😨 | Courage 🦁 | Recklessness 💥 |
+| Stinginess 💸 | Generosity 🎁 | Wastefulness 💰 |
+| Self-deprecation 😔 | Proper Pride 👑 | Arrogance 😤 |
+| Insensitivity 😐 | Friendliness 😊 | Obsequiousness 😬 |
+| Shamelessness 😈 | Modesty 😌 | Bashfulness 😳 |
+
+### Finding Your Mean 🎯
+
+The mean isn't mathematical - it's **relative to the individual and situation**:
+
+* A trained athlete needs more food than a sedentary person 🏃‍♂️🍽️
+* A general requires different courage than a firefighter 👨‍🚒⚔️
+* Generosity varies with wealth and circumstances 💎🤝
+
+The key is **practical wisdom (phronesis)** - the ability to discern the right action in the right circumstances.
+
+## How Virtue Develops: The Power of Habit 🔄
+
+Aristotle's insight: **"We are what we repeatedly do. Excellence, then, is not an act, but a habit."**
+
+### The Virtue Development Process 🌱➡️🌳
+
+1. **Mimicry** 👥 - Children imitate virtuous role models
+2. **Repetition** 🔄 - Repeated virtuous actions form habits
+3. **Integration** 🧩 - Habits become second nature
+4. **Mastery** 🎯 - Virtue becomes effortless and joyful
+
+It's like learning to play piano: first awkward practice, then muscle memory, finally artistic expression.
+
+### The Role of Education 📚
+
+Education shapes character by:
+
+* **Modeling virtue** 👨‍🏫 - Teachers exemplify excellence
+* **Creating good habits** 📝 - Structured practice of virtuous behavior
+* **Developing practical wisdom** 🧠 - Learning to judge specific situations
+* **Fostering love of excellence** ❤️ - Making virtue intrinsically rewarding
+
+## Practical Wisdom: The Master Virtue 🧭
+
+**Phronesis (practical wisdom)** is the crown jewel of Aristotelian ethics. It's the ability to:
+
+* **Perceive situations accurately** 👁️ - Seeing what's really happening
+* **Deliberate well** 🤔 - Considering options and consequences
+* **Choose the right action** ✅ - Selecting the virtuous response
+* **Act at the right time** ⏰ - Timing matters in ethics
+
+### Examples of Practical Wisdom in Action 🎬
+
+**Scenario 1: The Honest Friend** 👫
+Your friend asks if their new haircut looks good. It doesn't.
+
+* **Deficiency**: Brutal honesty that crushes their confidence
+* **Excess**: False praise that enables poor choices
+* **Mean**: Gentle, constructive feedback that maintains the relationship while helping them improve
+
+**Scenario 2: The Workplace Dilemma** 💼
+You discover a colleague is falsifying reports.
+
+* **Deficiency**: Ignoring it to avoid conflict
+* **Excess**: Immediately exposing them publicly
+* **Mean**: Addressing it directly with them first, escalating only if necessary
+
+## The Unity of the Virtues 🔗
+
+Aristotle argued that virtues are interconnected - you can't truly have one without the others. Why?
+
+### The Interconnection Web 🕸️
+
+* **Courage without justice** ⚔️❌ = Mere recklessness serving wrong ends
+* **Generosity without prudence** 🎁❌ = Wasteful giving that helps no one
+* **Honesty without kindness** 🗣️❌ = Cruel truth-telling that destroys relationships
+
+**True virtue requires practical wisdom** to coordinate all virtues harmoniously.
+
+## Friendship: The Highest Human Relationship 👫
+
+Aristotle devoted two entire books of the *Nicomachean Ethics* to friendship, identifying three types:
+
+### 1. Utility Friendships 🤝
+
+* Based on mutual benefit
+* Common in business and politics
+* End when usefulness ends
+* *Example*: Professional networking relationships
+
+### 2. Pleasure Friendships 🎉
+
+* Based on enjoyment and fun
+* Common among young people
+* Fade when shared interests change
+* *Example*: Party buddies or hobby groups
+
+### 3. Character Friendships 💎
+
+* Based on mutual respect for virtue
+* Rare but lasting
+* Friends love each other for who they are
+* *Example*: Lifelong companions who support each other's growth
+
+**Perfect friendship** combines all three: friends who are useful to each other, enjoy each other's company, and admire each other's character.
+
+## Modern Applications: Virtue Ethics Today 🌍
+
+### In Personal Development 🌱
+
+* **Focus on character** rather than just behavior modification
+* **Develop habits** that express your best self
+* **Seek mentors** who model excellence
+* **Practice self-reflection** to develop practical wisdom
+
+### In Leadership 👑
+
+* **Lead by example** rather than just rules
+* **Develop others' potential** through virtue education
+* **Make decisions** based on long-term flourishing, not just short-term gains
+* **Balance competing goods** through practical wisdom
+
+### In Professional Ethics 💼
+
+* **Excellence in craft** as moral obligation
+* **Integrity** as fundamental to professional identity
+* **Service** as expression of virtue
+* **Mentorship** as passing on excellence
+
+### In Relationships ❤️
+
+* **Character compatibility** as foundation for lasting bonds
+* **Mutual growth** in virtue and wisdom
+* **Honest communication** balanced with kindness
+* **Long-term commitment** to each other's flourishing
+
+## Challenges to Virtue Ethics 🤔
+
+### The Situationist Challenge 🎭
+
+Modern psychology suggests behavior varies more with situation than character. Response: Virtue ethics doesn't deny situational influence, but argues that virtuous people respond better across situations.
+
+### The Cultural Relativism Challenge 🌍
+
+Are virtues universal or culturally relative? Aristotle's virtues seem Greek and male-centered. Response: Core virtues may be universal (courage, justice), but their expression varies culturally.
+
+### The Action Guidance Problem 🤷‍♀️
+
+Critics argue virtue ethics doesn't provide clear action guidance. Response: It provides the framework (develop practical wisdom) and the goal (human flourishing), which is more flexible than rigid rules.
+
+## The Enduring Wisdom 🌟
+
+Why does Aristotelian virtue ethics remain compelling after 2,300 years?
+
+### It's Holistic 🧩
+
+* Integrates emotion, reason, and action
+* Considers the whole person, not just behavior
+* Balances individual and community good
+
+### It's Realistic 🎯
+
+* Acknowledges moral complexity
+* Allows for gradual development
+* Expects setbacks and growth
+
+### It's Inspiring 🚀
+
+* Points toward human potential
+* Makes ethics about excellence, not just rules
+* Connects morality to meaning and fulfillment
+
+## Living the Virtuous Life Today 🌅
+
+How can we apply Aristotelian insights in the 21st century?
+
+### Daily Practices 📅
+
+1. **Morning reflection** 🌅 - What virtues will I practice today?
+2. **Mindful choices** 🧠 - Pause before acting to consider the virtuous response
+3. **Evening review** 🌙 - How did I express (or fail to express) virtue today?
+4. **Seek feedback** 👥 - Ask trusted friends about your character
+
+### Long-term Development 📈
+
+1. **Choose role models** 🌟 - Study people who embody virtue
+2. **Practice deliberately** 🎯 - Work on specific virtues systematically
+3. **Embrace challenges** 💪 - See difficulties as virtue-building opportunities
+4. **Build community** 🏘️ - Surround yourself with people who share your values
+
+## Conclusion: The Path to Flourishing 🌈
+
+Aristotle's virtue ethics offers a profound alternative to rule-based and consequence-based approaches to morality. Instead of asking "What should I do?" it asks "What kind of person should I become?"
+
+The answer: **Become someone whose character has been shaped by virtue, whose actions flow from practical wisdom, and whose life expresses the full potential of human excellence.**
+
+This isn't about moral perfection - it's about the ongoing journey of growth, the daily practice of excellence, and the pursuit of a life that is truly worth living. In a world of quick fixes and instant gratification, Aristotle reminds us that the best things - character, wisdom, and genuine happiness - come to those who commit to the long path of virtue.
+
+*As Aristotle might say: Excellence is not a destination, but a way of traveling. How will you travel today?* 🌟🛤️
+8:["$","div",null,{"className":"lg:col-span-1","children":["$","div",null,{"className":"sticky top-24 space-y-6","children":[["$","div",null,{"data-slot":"card","className":"bg-card text-card-foreground flex flex-col gap-6 rounded-xl border py-6 shadow-sm","children":[["$","div",null,{"data-slot":"card-header","className":"@container/card-header grid auto-rows-min grid-rows-[auto_auto] items-start gap-2 px-6 has-data-[slot=card-action]:grid-cols-[1fr_auto] [.border-b]:pb-6","children":["$","div",null,{"data-slot":"card-title","className":"font-semibold text-lg","children":"Table of Contents"}]}],["$","div",null,{"data-slot":"card-content","className":"px-6","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$e"},"className":"prose prose-sm dark:prose-invert prose-a:text-primary prose-a:no-underline hover:prose-a:underline"}]}]]}],"$Lf","$L10"]}]}]
+9:["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]
+b:["$","div",null,{"data-slot":"card-title","className":"font-semibold text-lg line-clamp-2","children":["$","$L2",null,{"href":"/articles/existentialism-authenticity","className":"hover:text-primary transition-colors","children":"Existentialism and Authenticity: Creating Meaning in an Absurd World 🎭🌟"}]}]
+c:["$","div",null,{"data-slot":"card-content","className":"px-6","children":[["$","div",null,{"data-slot":"card-description","className":"text-muted-foreground text-sm line-clamp-2","children":"Explore how existentialist philosophers like Sartre, Camus, and Kierkegaard confronted the absurdity of existence and found paths to authentic living."}],["$","div",null,{"className":"mt-3 flex items-center justify-between","children":[["$","span",null,{"className":"text-xs text-muted-foreground","children":"14 min read"}],["$","$L2",null,{"href":"/articles/existentialism-authenticity","children":["Read",["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-right ml-1 h-3 w-3","aria-hidden":"true","children":[["$","path","1ays0h",{"d":"M5 12h14"}],["$","path","xquz4c",{"d":"m12 5 7 7-7 7"}],"$undefined"]}]],"data-slot":"button","className":"inline-flex items-center justify-center whitespace-nowrap text-sm font-medium transition-all disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg:not([class*='size-'])]:size-4 shrink-0 [&_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive hover:bg-accent hover:text-accent-foreground dark:hover:bg-accent/50 h-8 rounded-md gap-1.5 px-3 has-[>svg]:px-2.5","ref":null}]]}]]}]
+d:["$","div","platos-cave-allegory",{"data-slot":"card","className":"bg-card text-card-foreground flex flex-col gap-6 rounded-xl border py-6 shadow-sm hover:shadow-md transition-shadow","children":[["$","div",null,{"data-slot":"card-header","className":"@container/card-header grid auto-rows-min grid-rows-[auto_auto] items-start gap-2 px-6 has-data-[slot=card-action]:grid-cols-[1fr_auto] [.border-b]:pb-6 pb-3","children":[["$","span",null,{"data-slot":"badge","className":"inline-flex items-center justify-center rounded-full border px-2 py-0.5 font-medium whitespace-nowrap shrink-0 [&>svg]:size-3 gap-1 [&>svg]:pointer-events-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive transition-[color,box-shadow] overflow-hidden border-transparent bg-secondary text-secondary-foreground [a&]:hover:bg-secondary/90 w-fit mb-2 text-xs","children":"philosophy"}],["$","div",null,{"data-slot":"card-title","className":"font-semibold text-lg line-clamp-2","children":["$","$L2",null,{"href":"/articles/platos-cave-allegory","className":"hover:text-primary transition-colors","children":"Plato's Cave: Understanding Reality Through Shadows and Enlightenment 🕳️💡"}]}]]}],["$","div",null,{"data-slot":"card-content","className":"px-6","children":[["$","div",null,{"data-slot":"card-description","className":"text-muted-foreground text-sm line-clamp-2","children":"Dive deep into Plato's most famous allegory and discover how it illuminates the journey from ignorance to knowledge, from illusion to truth."}],["$","div",null,{"className":"mt-3 flex items-center justify-between","children":[["$","span",null,{"className":"text-xs text-muted-foreground","children":"9 min read"}],["$","$L2",null,{"href":"/articles/platos-cave-allegory","children":["Read",["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-right ml-1 h-3 w-3","aria-hidden":"true","children":[["$","path","1ays0h",{"d":"M5 12h14"}],["$","path","xquz4c",{"d":"m12 5 7 7-7 7"}],"$undefined"]}]],"data-slot":"button","className":"inline-flex items-center justify-center whitespace-nowrap text-sm font-medium transition-all disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg:not([class*='size-'])]:size-4 shrink-0 [&_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive hover:bg-accent hover:text-accent-foreground dark:hover:bg-accent/50 h-8 rounded-md gap-1.5 px-3 has-[>svg]:px-2.5","ref":null}]]}]]}]]}]
+f:["$","div",null,{"data-slot":"card","className":"bg-card text-card-foreground flex flex-col gap-6 rounded-xl border py-6 shadow-sm","children":[["$","div",null,{"data-slot":"card-header","className":"@container/card-header grid auto-rows-min grid-rows-[auto_auto] items-start gap-2 px-6 has-data-[slot=card-action]:grid-cols-[1fr_auto] [.border-b]:pb-6","children":["$","div",null,{"data-slot":"card-title","className":"font-semibold text-lg","children":"Article Info"}]}],["$","div",null,{"data-slot":"card-content","className":"px-6 space-y-3","children":[["$","div",null,{"className":"flex justify-between items-center text-sm","children":[["$","span",null,{"children":"Category"}],["$","span",null,{"data-slot":"badge","className":"inline-flex items-center justify-center rounded-full border px-2 py-0.5 text-xs font-medium w-fit whitespace-nowrap shrink-0 [&>svg]:size-3 gap-1 [&>svg]:pointer-events-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive transition-[color,box-shadow] overflow-hidden border-transparent bg-secondary text-secondary-foreground [a&]:hover:bg-secondary/90","children":"philosophy"}]]}],["$","div",null,{"className":"flex justify-between items-center text-sm","children":[["$","span",null,{"children":"Reading Time"}],["$","span",null,{"className":"text-muted-foreground","children":"9 min read"}]]}],["$","div",null,{"className":"flex justify-between items-center text-sm","children":[["$","span",null,{"children":"Word Count"}],["$","span",null,{"className":"text-muted-foreground","children":1633}]]}],["$","div",null,{"className":"flex justify-between items-center text-sm","children":[["$","span",null,{"children":"Published"}],["$","span",null,{"className":"text-muted-foreground","children":"Nov 8, 2024"}]]}]]}]]}]
+10:["$","div",null,{"data-slot":"card","className":"bg-card text-card-foreground flex flex-col gap-6 rounded-xl border py-6 shadow-sm","children":[["$","div",null,{"data-slot":"card-header","className":"@container/card-header grid auto-rows-min grid-rows-[auto_auto] items-start gap-2 px-6 has-data-[slot=card-action]:grid-cols-[1fr_auto] [.border-b]:pb-6","children":["$","div",null,{"data-slot":"card-title","className":"font-semibold text-lg","children":"Share Article"}]}],["$","div",null,{"data-slot":"card-content","className":"px-6 space-y-2","children":[["$","a",null,{"href":"https://deitheon.org/articles/aristotelian-virtue-ethics/","target":"_blank","rel":"noopener noreferrer","children":"View Link","data-slot":"button","className":"inline-flex items-center whitespace-nowrap text-sm font-medium transition-all disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg:not([class*='size-'])]:size-4 shrink-0 [&_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive border bg-background shadow-xs hover:bg-accent hover:text-accent-foreground dark:bg-input/30 dark:border-input dark:hover:bg-input/50 h-8 rounded-md gap-1.5 px-3 has-[>svg]:px-2.5 w-full justify-start","ref":null}],["$","a",null,{"href":"https://twitter.com/intent/tweet?text=Aristotelian%20Virtue%20Ethics%3A%20The%20Golden%20Mean%20and%20Human%20Flourishing%20%F0%9F%8C%9F%E2%9A%96%EF%B8%8F&url=https%3A%2F%2Fdeitheon.org%2Farticles%2Faristotelian-virtue-ethics%2F","target":"_blank","rel":"noopener noreferrer","children":"Share on Twitter","data-slot":"button","className":"inline-flex items-center whitespace-nowrap text-sm font-medium transition-all disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg:not([class*='size-'])]:size-4 shrink-0 [&_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive border bg-background shadow-xs hover:bg-accent hover:text-accent-foreground dark:bg-input/30 dark:border-input dark:hover:bg-input/50 h-8 rounded-md gap-1.5 px-3 has-[>svg]:px-2.5 w-full justify-start","ref":null}]]}]]}]
+13:null

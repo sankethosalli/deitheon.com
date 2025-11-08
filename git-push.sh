@@ -2,6 +2,7 @@
 
 # Git push script for frontend
 
+git pull origin main
 echo "🎨 Frontend - Git Push Script"
 echo "=============================="
 echo ""

@@ -1,0 +1,783 @@
+1:"$Sreact.fragment"
+2:I[9016,["549","static/chunks/549-de178229b97c5a57.js","200","static/chunks/200-34f605af3b04f01e.js","722","static/chunks/722-3ee155f9e62b9e25.js","718","static/chunks/718-8dd0f2636ec9e182.js","177","static/chunks/app/layout-20093eb505afa7d9.js"],"ThemeProvider"]
+3:I[3346,["549","static/chunks/549-de178229b97c5a57.js","200","static/chunks/200-34f605af3b04f01e.js","722","static/chunks/722-3ee155f9e62b9e25.js","718","static/chunks/718-8dd0f2636ec9e182.js","177","static/chunks/app/layout-20093eb505afa7d9.js"],"Navbar"]
+4:I[8172,[],""]
+5:I[4829,[],""]
+6:I[5461,["549","static/chunks/549-de178229b97c5a57.js","200","static/chunks/200-34f605af3b04f01e.js","345","static/chunks/app/not-found-c95f94b28d0ab667.js"],"default"]
+7:I[3549,["549","static/chunks/549-de178229b97c5a57.js","904","static/chunks/app/articles/%5Bslug%5D/page-b4feb5d14a6717da.js"],""]
+12:I[5704,[],""]
+:HL["/next/static/media/e4af272ccee01ff0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/next/static/css/37fa22436fa00681.css","style"]
+0:{"P":null,"b":"build-1762600831878","c":["","articles","existentialism-authenticity",""],"q":"","i":false,"f":[[["",{"children":["articles",{"children":[["slug","existentialism-authenticity","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/next/static/css/37fa22436fa00681.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":["$","body",null,{"className":"__variable_f367f3 font-sans antialiased","children":["$","$L2",null,{"children":["$","div",null,{"className":"relative flex min-h-screen flex-col","children":[["$","$L3",null,{}],["$","main",null,{"className":"flex-1","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L6",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"bg-gradient-to-b from-muted/30 to-muted/60 border-t border-primary/10 relative overflow-hidden","children":[["$","div",null,{"className":"absolute inset-0","children":[["$","div",null,{"className":"absolute top-0 left-1/4 w-64 h-64 bg-primary/5 rounded-full blur-3xl"}],["$","div",null,{"className":"absolute bottom-0 right-1/4 w-64 h-64 bg-purple-500/5 rounded-full blur-3xl"}]]}],["$","div",null,{"className":"container mx-auto px-4 sm:px-6 lg:px-8 py-16 relative","children":[["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-12","children":[["$","div",null,{"className":"lg:col-span-1","children":[["$","$L7",null,{"href":"/","className":"group flex items-center space-x-2 mb-4","children":["$","div",null,{"className":"text-2xl font-bold bg-gradient-to-r from-primary via-purple-600 to-primary/60 bg-clip-text text-transparent group-hover:scale-105 transition-transform","children":"✨ DeiTheon"}]}],["$","p",null,{"className":"text-sm text-muted-foreground leading-relaxed mb-6","children":"Where the divine meets the human 🌟 Exploring the profound questions that shape our understanding of existence, consciousness, and reality."}],["$","div",null,{"className":"p-4 bg-primary/5 rounded-lg border border-primary/10","children":["$","p",null,{"className":"text-sm italic text-muted-foreground","children":"\"The unexamined life is not worth living\" — Socrates 💭"}]}]]}],["$","div",null,{"className":"grid grid-cols-2 lg:grid-cols-4 gap-8 lg:col-span-4","children":[["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-foreground mb-4 flex items-center gap-2","children":[["$","span",null,{"children":"🧭"}]," Explore"]}],["$","ul",null,{"className":"space-y-3","children":[["$","li","Articles",{"children":["$","$L7",null,{"href":"/articles","className":"text-sm text-muted-foreground hover:text-primary transition-all duration-300 hover:translate-x-1 flex items-center gap-2 group","children":[["$","span",null,{"className":"group-hover:scale-110 transition-transform","children":"📚"}],"Articles"]}]}],["$","li","Categories",{"children":["$","$L7",null,{"href":"/categories","className":"text-sm text-muted-foreground hover:text-primary transition-all duration-300 hover:translate-x-1 flex items-center gap-2 group","children":[["$","span",null,{"className":"group-hover:scale-110 transition-transform","children":"🗂️"}],"Categories"]}]}],["$","li","Featured",{"children":["$","$L7",null,{"href":"/featured","className":"text-sm text-muted-foreground hover:text-primary transition-all duration-300 hover:translate-x-1 flex items-center gap-2 group","children":[["$","span",null,{"className":"group-hover:scale-110 transition-transform","children":"⭐"}],"Featured"]}]}],["$","li","Random Article",{"children":["$","$L7",null,{"href":"/random","className":"text-sm text-muted-foreground hover:text-primary transition-all duration-300 hover:translate-x-1 flex items-center gap-2 group","children":[["$","span",null,{"className":"group-hover:scale-110 transition-transform","children":"🎲"}],"Random Article"]}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-foreground mb-4 flex items-center gap-2","children":["$L8"," Categories"]}],"$L9"]}],"$La","$Lb"]}]]}],"$Lc","$Ld"]}]]}]]}]}]}]}]]}],{"children":["$Le",{"children":["$Lf",{"children":["$L10",{},null,false,false]},null,false,false]},null,false,false]},null,false,false],"$L11",false]],"m":"$undefined","G":["$12",[]],"s":false,"S":true}
+13:I[4805,["549","static/chunks/549-de178229b97c5a57.js","200","static/chunks/200-34f605af3b04f01e.js","722","static/chunks/722-3ee155f9e62b9e25.js","718","static/chunks/718-8dd0f2636ec9e182.js","177","static/chunks/app/layout-20093eb505afa7d9.js"],"Separator"]
+15:I[8937,[],"OutletBoundary"]
+16:"$Sreact.suspense"
+18:I[8937,[],"ViewportBoundary"]
+1a:I[8937,[],"MetadataBoundary"]
+8:["$","span",null,{"children":"🎯"}]
+9:["$","ul",null,{"className":"space-y-3","children":[["$","li","Philosophy",{"children":["$","$L7",null,{"href":"/categories/philosophy","className":"text-sm text-muted-foreground hover:text-primary transition-all duration-300 hover:translate-x-1 flex items-center gap-2 group","children":[["$","span",null,{"className":"group-hover:scale-110 transition-transform","children":"🧠"}],"Philosophy"]}]}],["$","li","Science",{"children":["$","$L7",null,{"href":"/categories/science","className":"text-sm text-muted-foreground hover:text-primary transition-all duration-300 hover:translate-x-1 flex items-center gap-2 group","children":[["$","span",null,{"className":"group-hover:scale-110 transition-transform","children":"🔬"}],"Science"]}]}],["$","li","Psychology",{"children":["$","$L7",null,{"href":"/categories/psychology","className":"text-sm text-muted-foreground hover:text-primary transition-all duration-300 hover:translate-x-1 flex items-center gap-2 group","children":[["$","span",null,{"className":"group-hover:scale-110 transition-transform","children":"💭"}],"Psychology"]}]}],["$","li","Society",{"children":["$","$L7",null,{"href":"/categories/society","className":"text-sm text-muted-foreground hover:text-primary transition-all duration-300 hover:translate-x-1 flex items-center gap-2 group","children":[["$","span",null,{"className":"group-hover:scale-110 transition-transform","children":"🏛️"}],"Society"]}]}]]}]
+a:["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-foreground mb-3","children":"About"}],["$","ul",null,{"className":"space-y-2","children":[["$","li","About DeiTheon",{"children":["$","$L7",null,{"href":"/about","className":"text-sm text-muted-foreground hover:text-foreground transition-colors","children":"About DeiTheon"}]}],["$","li","Our Mission",{"children":["$","$L7",null,{"href":"/about#mission","className":"text-sm text-muted-foreground hover:text-foreground transition-colors","children":"Our Mission"}]}],["$","li","Contact Us",{"children":["$","$L7",null,{"href":"/contact","className":"text-sm text-muted-foreground hover:text-foreground transition-colors","children":"Contact Us"}]}],["$","li","Privacy Policy",{"children":["$","$L7",null,{"href":"/privacy","className":"text-sm text-muted-foreground hover:text-foreground transition-colors","children":"Privacy Policy"}]}]]}]]}]
+b:["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-foreground mb-3","children":"Connect"}],["$","ul",null,{"className":"space-y-2","children":[["$","li","Newsletter",{"children":["$","$L7",null,{"href":"/newsletter","className":"text-sm text-muted-foreground hover:text-foreground transition-colors","children":"Newsletter"}]}],["$","li","RSS Feed",{"children":["$","$L7",null,{"href":"/rss.xml","className":"text-sm text-muted-foreground hover:text-foreground transition-colors","children":"RSS Feed"}]}],["$","li","Sitemap",{"children":["$","$L7",null,{"href":"/sitemap.xml","className":"text-sm text-muted-foreground hover:text-foreground transition-colors","children":"Sitemap"}]}],["$","li","Settings",{"children":["$","$L7",null,{"href":"/settings","className":"text-sm text-muted-foreground hover:text-foreground transition-colors","children":"Settings"}]}]]}]]}]
+c:["$","$L13",null,{"className":"my-8"}]
+d:["$","div",null,{"className":"flex flex-col sm:flex-row justify-between items-center space-y-4 sm:space-y-0","children":[["$","div",null,{"className":"text-sm text-muted-foreground","children":["© ",2025," DeiTheon. All rights reserved."]}],["$","div",null,{"className":"text-sm text-muted-foreground","children":["Built with"," ",["$","$L7",null,{"href":"https://nextjs.org","className":"hover:text-foreground transition-colors","target":"_blank","rel":"noopener noreferrer","children":"Next.js"}]," ","and"," ",["$","$L7",null,{"href":"https://tailwindcss.com","className":"hover:text-foreground transition-colors","target":"_blank","rel":"noopener noreferrer","children":"Tailwind CSS"}]]}]]}]
+e:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+f:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+10:["$","$1","c",{"children":["$L14",null,["$","$L15",null,{"children":["$","$16",null,{"name":"Next.MetadataOutlet","children":"$@17"}]}]]}]
+11:["$","$1","h",{"children":[null,["$","$L18",null,{"children":"$@19"}],["$","div",null,{"hidden":true,"children":["$","$L1a",null,{"children":["$","$16",null,{"name":"Next.Metadata","children":"$@1b"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+14:["$","div",null,{"className":"min-h-screen bg-gradient-to-b from-background to-muted/10","children":["$","div",null,{"className":"container mx-auto px-4 sm:px-6 lg:px-8 py-8","children":[["$","div",null,{"className":"mb-8","children":["$","$L7",null,{"href":"/articles","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left mr-2 h-4 w-4 group-hover:-translate-x-1 transition-transform","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],"Back to Articles"],"data-slot":"button","className":"inline-flex items-center justify-center whitespace-nowrap text-sm font-medium disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg:not([class*='size-'])]:size-4 shrink-0 [&_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive hover:text-accent-foreground dark:hover:bg-accent/50 h-8 rounded-md gap-1.5 px-3 has-[>svg]:px-2.5 group hover:bg-primary/10 transition-all duration-300","ref":null}]}],["$","div",null,{"className":"grid grid-cols-1 lg:grid-cols-4 gap-8","children":[["$","div",null,{"className":"lg:col-span-3","children":[["$","article",null,{"className":"bg-background/80 backdrop-blur-sm rounded-2xl border shadow-xl p-8 lg:p-12","children":[["$","header",null,{"className":"mb-12 text-center lg:text-left","children":[["$","div",null,{"className":"flex flex-wrap items-center justify-center lg:justify-start gap-3 mb-6","children":[["$","span",null,{"data-slot":"badge","className":"inline-flex items-center justify-center rounded-full border font-medium w-fit whitespace-nowrap shrink-0 [&>svg]:size-3 gap-1 [&>svg]:pointer-events-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive transition-[color,box-shadow] overflow-hidden [a&]:hover:bg-secondary/90 bg-primary/10 text-primary border-primary/20 text-sm px-3 py-1","children":["🧠"," ","philosophy"]}],"$undefined"]}],["$","h1",null,{"className":"text-3xl md:text-4xl lg:text-5xl font-bold tracking-tight mb-6 bg-gradient-to-r from-primary via-purple-600 to-primary/80 bg-clip-text text-transparent leading-tight","children":"Existentialism and Authenticity: Creating Meaning in an Absurd World 🎭🌟"}],["$","p",null,{"className":"text-xl md:text-2xl text-muted-foreground mb-8 leading-relaxed max-w-4xl mx-auto lg:mx-0","children":["Explore how existentialist philosophers like Sartre, Camus, and Kierkegaard confronted the absurdity of existence and found paths to authentic living."," ✨"]}],["$","div",null,{"className":"flex flex-wrap items-center justify-center lg:justify-start gap-6 text-base text-muted-foreground","children":[["$","div",null,{"className":"flex items-center gap-2 bg-muted/50 rounded-full px-4 py-2","children":[["$","span",null,{"className":"text-lg","children":"📅"}],["$","span",null,{"children":"November 8, 2024"}]]}],["$","div",null,{"className":"flex items-center gap-2 bg-muted/50 rounded-full px-4 py-2","children":[["$","span",null,{"className":"text-lg","children":"⏱️"}],["$","span",null,{"children":"14 min read"}]]}],["$","div",null,{"className":"flex items-center gap-1","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-eye h-4 w-4","aria-hidden":"true","children":["$L1c","$L1d","$undefined"]}],"By ","Dr. Jean-Paul Martin"]}]]}],"$L1e"]}],"$L1f"]}],"$L20"]}],"$L21"]}]]}]}]
+1c:["$","path","1nclc0",{"d":"M2.062 12.348a1 1 0 0 1 0-.696 10.75 10.75 0 0 1 19.876 0 1 1 0 0 1 0 .696 10.75 10.75 0 0 1-19.876 0"}]
+1d:["$","circle","1v7zrd",{"cx":"12","cy":"12","r":"3"}]
+1e:["$","div",null,{"className":"flex flex-wrap gap-2 mt-4","children":[["$","span","existentialism",{"data-slot":"badge","className":"inline-flex items-center justify-center rounded-full border px-2 py-0.5 font-medium w-fit whitespace-nowrap shrink-0 [&>svg]:size-3 gap-1 [&>svg]:pointer-events-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive transition-[color,box-shadow] overflow-hidden text-foreground [a&]:hover:bg-accent [a&]:hover:text-accent-foreground text-xs","children":"existentialism"}],["$","span","authenticity",{"data-slot":"badge","className":"inline-flex items-center justify-center rounded-full border px-2 py-0.5 font-medium w-fit whitespace-nowrap shrink-0 [&>svg]:size-3 gap-1 [&>svg]:pointer-events-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive transition-[color,box-shadow] overflow-hidden text-foreground [a&]:hover:bg-accent [a&]:hover:text-accent-foreground text-xs","children":"authenticity"}],["$","span","Sartre",{"data-slot":"badge","className":"inline-flex items-center justify-center rounded-full border px-2 py-0.5 font-medium w-fit whitespace-nowrap shrink-0 [&>svg]:size-3 gap-1 [&>svg]:pointer-events-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive transition-[color,box-shadow] overflow-hidden text-foreground [a&]:hover:bg-accent [a&]:hover:text-accent-foreground text-xs","children":"Sartre"}],["$","span","Camus",{"data-slot":"badge","className":"inline-flex items-center justify-center rounded-full border px-2 py-0.5 font-medium w-fit whitespace-nowrap shrink-0 [&>svg]:size-3 gap-1 [&>svg]:pointer-events-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive transition-[color,box-shadow] overflow-hidden text-foreground [a&]:hover:bg-accent [a&]:hover:text-accent-foreground text-xs","children":"Camus"}],["$","span","Kierkegaard",{"data-slot":"badge","className":"inline-flex items-center justify-center rounded-full border px-2 py-0.5 font-medium w-fit whitespace-nowrap shrink-0 [&>svg]:size-3 gap-1 [&>svg]:pointer-events-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive transition-[color,box-shadow] overflow-hidden text-foreground [a&]:hover:bg-accent [a&]:hover:text-accent-foreground text-xs","children":"Kierkegaard"}],["$","span","absurdism",{"data-slot":"badge","className":"inline-flex items-center justify-center rounded-full border px-2 py-0.5 font-medium w-fit whitespace-nowrap shrink-0 [&>svg]:size-3 gap-1 [&>svg]:pointer-events-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive transition-[color,box-shadow] overflow-hidden text-foreground [a&]:hover:bg-accent [a&]:hover:text-accent-foreground text-xs","children":"absurdism"}],"$L22"]}]
+23:T57a8,<h1>Existentialism and Authenticity: Creating Meaning in an Absurd World 🎭🌟</h1>
+<p><em>"Man is condemned to be free; because once thrown into the world, he is responsible for everything he does."</em> - Jean-Paul Sartre</p>
+<p>In the aftermath of two world wars, amid the ruins of traditional religious and moral certainties, a group of philosophers dared to ask the most fundamental questions: What does it mean to exist? How do we create meaning when the universe seems indifferent to our struggles? How do we live authentically in a world that often demands conformity?</p>
+<p>Welcome to existentialism - philosophy's most radical and personal movement.</p>
+<h2>The Existentialist Awakening ⚡</h2>
+<p>Existentialism emerged from a profound crisis of meaning in the 20th century. Traditional sources of value - religion, nationalism, universal reason - had seemingly failed. The result? A philosophical movement that placed the individual at the center of meaning-creation.</p>
+<h3>Core Existentialist Themes 🎯</h3>
+<h4>1. Existence Precedes Essence 🌱</h4>
+<p>Unlike objects (which have predetermined purposes), humans exist first and create their essence through choices and actions.</p>
+<p><strong>A hammer</strong> 🔨 has an essence (hammering) that precedes its existence.
+<strong>A human</strong> 👤 exists first, then defines what it means to be human through living.</p>
+<h4>2. Radical Freedom and Responsibility 🔓</h4>
+<p>We are "condemned to be free" and fully responsible for our choices - no excuses, no predetermined nature to blame.</p>
+<h4>3. Authenticity vs. Bad Faith 🎭</h4>
+<p>Living authentically means accepting our freedom and responsibility, while "bad faith" involves denying this freedom through self-deception.</p>
+<h4>4. Anxiety and Angst 😰</h4>
+<p>The recognition of our absolute freedom creates anxiety - not neurotic worry, but existential dread at the weight of responsibility.</p>
+<h4>5. Absurdity 🎪</h4>
+<p>The conflict between human need for meaning and the universe's apparent meaninglessness creates an absurd condition.</p>
+<h2>Jean-Paul Sartre: Freedom as Burden and Gift 🇫🇷</h2>
+<p>Sartre, the movement's most systematic philosopher, developed a comprehensive existentialist framework.</p>
+<h3>Being-for-itself vs. Being-in-itself 🪨👤</h3>
+<h4>Being-in-itself (Objects) 🪨</h4>
+<ul>
+<li><strong>Complete and determined</strong> - A rock is just a rock</li>
+<li><strong>No consciousness</strong> - Cannot question or change</li>
+<li><strong>Facticity</strong> - Pure being without freedom</li>
+</ul>
+<h4>Being-for-itself (Human consciousness) 👤</h4>
+<ul>
+<li><strong>Incomplete and questioning</strong> - Always becoming, never complete</li>
+<li><strong>Self-aware</strong> - Conscious of consciousness itself</li>
+<li><strong>Nothingness at core</strong> - The gap between what we are and what we might become</li>
+</ul>
+<h3>Bad Faith: The Great Escape 🚪</h3>
+<p>Sartre identified various forms of <strong>mauvaise foi</strong> (bad faith) - ways we deny our freedom:</p>
+<h4>The Waiter Example 🍽️</h4>
+<p>A waiter who over-identifies with his role, playing at "being a waiter" to avoid confronting his freedom to choose other possibilities.</p>
+<h4>Spirit of Seriousness 😤</h4>
+<p>Treating social roles, values, or institutions as objectively given rather than human constructions we're free to reject.</p>
+<h4>The Look of the Other 👁️</h4>
+<p>Allowing others to define us, becoming objects in their gaze rather than subjects of our own experience.</p>
+<h3>Authenticity: Embracing the Burden 💪</h3>
+<p>Authentic existence requires:</p>
+<ul>
+<li><strong>Accepting radical freedom</strong> 🔓 - No essence determines your choices</li>
+<li><strong>Taking full responsibility</strong> ⚖️ - For yourself and, in choosing for yourself, for all humanity</li>
+<li><strong>Embracing anxiety</strong> 😰 - The natural response to recognizing freedom</li>
+<li><strong>Creating values</strong> 🎨 - Rather than discovering pre-existing ones</li>
+</ul>
+<h3>Sartre's Famous Example: The Student's Dilemma 🎓⚔️</h3>
+<p>During WWII, a student asks Sartre whether to join the Resistance or care for his mother. Sartre's response? <strong>No universal principle can decide</strong>. The student must choose, and in choosing, create value. If he chooses the Resistance, he affirms that fighting fascism matters more than filial duty. If he chooses his mother, he affirms that personal loyalty trumps political action.</p>
+<p>The weight of the choice creates anguish - and that's precisely what makes us human.</p>
+<h2>Albert Camus: The Absurd Hero 🌄</h2>
+<p>While often grouped with existentialists, Camus rejected the label, preferring "absurdist." His focus: how to live fully despite life's fundamental absurdity.</p>
+<h3>The Absurd Trinity 🔺</h3>
+<p>Camus identified three elements that create absurdity:</p>
+<ol>
+<li><strong>Human need for meaning</strong> 🧠 - We desperately seek purpose and understanding</li>
+<li><strong>Universe's silence</strong> 🌌 - The cosmos offers no inherent meaning or answers</li>
+<li><strong>Their confrontation</strong> ⚡ - The clash between human need and cosmic indifference</li>
+</ol>
+<h3>The Myth of Sisyphus: Rebellion Through Acceptance 🪨⛰️</h3>
+<p>Sisyphus, condemned by the gods to roll a boulder up a mountain for eternity, becomes Camus's hero. Why?</p>
+<p><strong>Most people assume</strong> Sisyphus is miserable - trapped in meaningless, repetitive punishment.</p>
+<p><strong>Camus suggests</strong> we must imagine Sisyphus happy. How?</p>
+<ul>
+<li><strong>Full consciousness</strong> 👁️ - Sisyphus sees his situation clearly, without illusions</li>
+<li><strong>Rebellion</strong> ✊ - He refuses to hope for escape or divine intervention</li>
+<li><strong>Passionate engagement</strong> 🔥 - He commits fully to his task despite its apparent meaninglessness</li>
+</ul>
+<p><em>"The struggle itself toward the heights is enough to fill a man's heart."</em></p>
+<h3>The Absurd Man's Principles 🎯</h3>
+<ol>
+<li><strong>Lucid indifference</strong> 😌 - Clear-eyed acceptance of absurdity</li>
+<li><strong>Revolt</strong> ✊ - Refusal to surrender to despair or false hopes</li>
+<li><strong>Passion</strong> 🔥 - Full engagement with life despite its apparent meaninglessness</li>
+</ol>
+<h3>Camus vs. Suicide: The Fundamental Question 💭</h3>
+<p>Camus begins <em>The Myth of Sisyphus</em> with philosophy's most urgent question: <strong>"There is but one truly serious philosophical problem, and that is suicide."</strong></p>
+<p>His argument against suicide:</p>
+<ul>
+<li><strong>Life has no inherent meaning</strong> ❌ - True, but this doesn't justify ending it</li>
+<li><strong>We can create meaning</strong> ✨ - Through revolt, passion, and lucid living</li>
+<li><strong>Quantity of experience</strong> 📊 - More life means more experience, regardless of meaning</li>
+<li><strong>Solidarity with humanity</strong> 🤝 - Suicide abandons others facing the same absurd condition</li>
+</ul>
+<h2>Søren Kierkegaard: The Father of Existentialism ⛪</h2>
+<p>Writing a century before Sartre and Camus, this Danish philosopher laid existentialism's foundations while remaining deeply religious.</p>
+<h3>The Three Stages of Existence 🎭</h3>
+<h4>The Aesthetic Stage 🎨</h4>
+<ul>
+<li><strong>Pursuit of pleasure</strong> and immediate gratification</li>
+<li><strong>Avoidance of commitment</strong> and responsibility</li>
+<li><strong>Example</strong>: Don Juan, the eternal seducer</li>
+<li><strong>Problem</strong>: Leads to boredom and despair</li>
+</ul>
+<h4>The Ethical Stage ⚖️</h4>
+<ul>
+<li><strong>Universal moral principles</strong> guide behavior</li>
+<li><strong>Duty and social responsibility</strong> take precedence</li>
+<li><strong>Example</strong>: The ethical judge who upholds social order</li>
+<li><strong>Problem</strong>: Can become rigid and impersonal</li>
+</ul>
+<h4>The Religious Stage 🙏</h4>
+<ul>
+<li><strong>Individual relationship</strong> with the absolute (God)</li>
+<li><strong>Faith beyond reason</strong> and social convention</li>
+<li><strong>Example</strong>: Abraham willing to sacrifice Isaac</li>
+<li><strong>Tension</strong>: Requires "leap of faith" beyond rational justification</li>
+</ul>
+<h3>Anxiety: The Dizziness of Freedom 😵‍💫</h3>
+<p>Kierkegaard's famous analysis of anxiety as the response to freedom:</p>
+<p><em>"Anxiety is the dizziness of freedom, which emerges when the spirit wants to posit the synthesis, and freedom looks down into its own possibility, laying hold of finiteness to support itself."</em></p>
+<p>Standing at a cliff's edge, we experience anxiety not just from fear of falling, but from recognizing our freedom to jump - the terrifying realization that nothing prevents us from choosing our own destruction except our own choice not to.</p>
+<h3>Either/Or: The Agony of Choice 🔀</h3>
+<p>For Kierkegaard, authentic existence requires decisive choice without complete rational justification. We must choose either aesthetic pleasure-seeking or ethical duty - but the choice itself cannot be rationally proven correct.</p>
+<p>This creates anxiety but also authenticity - we become who we are through our choices, not through discovering some predetermined essence.</p>
+<h2>Simone de Beauvoir: Existentialist Feminism 🌹</h2>
+<p>Often overshadowed by Sartre (her lifelong partner), de Beauvoir developed crucial existentialist insights about gender, otherness, and freedom.</p>
+<h3>The Second Sex: Existential Analysis of Women's Situation 👥</h3>
+<p>De Beauvoir's famous declaration: <strong>"One is not born, but rather becomes, a woman."</strong></p>
+<p>This exemplifies existentialist thinking:</p>
+<ul>
+<li><strong>No female essence</strong> 🚫 - Femininity is socially constructed, not biologically determined</li>
+<li><strong>Situation shapes existence</strong> 🏗️ - Women's "nature" reflects their historical and social circumstances</li>
+<li><strong>Freedom through recognition</strong> 🔓 - Understanding oppression is the first step to transcending it</li>
+</ul>
+<h3>The Ethics of Ambiguity 🌫️</h3>
+<p>De Beauvoir explored how we can act ethically in an ambiguous world:</p>
+<h4>Key Insights 💡</h4>
+<ul>
+<li><strong>We are all interdependent</strong> 🔗 - My freedom depends on others' freedom</li>
+<li><strong>Ethical action requires recognition</strong> 👁️ - Seeing others as free subjects, not objects</li>
+<li><strong>Ambiguity is permanent</strong> 🌊 - We must act without complete certainty</li>
+</ul>
+<h4>Types of People 👥</h4>
+<ol>
+<li><strong>The Sub-man</strong> 😴 - Refuses to recognize their freedom</li>
+<li><strong>The Serious Man</strong> 😤 - Treats values as objectively given</li>
+<li><strong>The Nihilist</strong> 🕳️ - Recognizes meaninglessness but falls into despair</li>
+<li><strong>The Adventurer</strong> 🗺️ - Pursues freedom for its own sake</li>
+<li><strong>The Passionate Man</strong> ❤️ - Commits to chosen values while recognizing their contingency</li>
+</ol>
+<h2>Friedrich Nietzsche: The Proto-Existentialist 🦅</h2>
+<p>Though predating official existentialism by decades, Nietzsche profoundly influenced the movement.</p>
+<h3>The Death of God 💀</h3>
+<p>Nietzsche's famous proclamation wasn't celebration but diagnosis:</p>
+<ul>
+<li><strong>Traditional values are crumbling</strong> 🏛️💥 - Religious and moral certainties no longer hold</li>
+<li><strong>Nihilism threatens</strong> 🕳️ - Without God-given meaning, people risk despair</li>
+<li><strong>Opportunity for recreation</strong> 🎨 - Humans can now create their own values</li>
+</ul>
+<h3>The Übermensch: Self-Creation Through Will 💪</h3>
+<p>The "overman" doesn't refer to a superior race but to individuals who:</p>
+<ul>
+<li><strong>Create their own values</strong> 🎨 - Rather than accepting inherited ones</li>
+<li><strong>Affirm life fully</strong> ✅ - Including its suffering and uncertainty</li>
+<li><strong>Exercise will to power</strong> ⚡ - Express their creative potential maximally</li>
+</ul>
+<h3>Eternal Recurrence: The Ultimate Test 🔄</h3>
+<p>Imagine living your exact life infinitely again - every joy, every pain, every moment of boredom. Could you affirm this eternal repetition? If yes, you're living authentically. If no, you need to change how you live.</p>
+<h2>Existentialism in Practice: Modern Applications 🌍</h2>
+<h3>Existential Psychotherapy 🛋️</h3>
+<p>Therapists like Viktor Frankl, Rollo May, and Irvin Yalom developed therapeutic approaches based on existentialist insights:</p>
+<h4>Core Principles 🎯</h4>
+<ul>
+<li><strong>Freedom and responsibility</strong> - Clients can choose their responses to circumstances</li>
+<li><strong>Meaning-making</strong> - Therapy helps create rather than discover meaning</li>
+<li><strong>Anxiety as growth</strong> - Existential anxiety signals opportunities for authentic choice</li>
+<li><strong>Death awareness</strong> - Accepting mortality intensifies authentic living</li>
+</ul>
+<h4>Case Example 📋</h4>
+<p>A client feels trapped in an unfulfilling career. Traditional therapy might explore childhood causes. Existential therapy focuses on:</p>
+<ul>
+<li><strong>Recognizing choice</strong> 🔓 - You chose this career and can choose differently</li>
+<li><strong>Accepting anxiety</strong> 😰 - Career change creates uncertainty - that's normal</li>
+<li><strong>Creating meaning</strong> 🎨 - What would make work meaningful for you?</li>
+<li><strong>Taking responsibility</strong> ⚖️ - Own your choices rather than blaming circumstances</li>
+</ul>
+<h3>Business and Leadership 💼</h3>
+<p>Existentialist principles apply to organizational life:</p>
+<h4>Authentic Leadership 👑</h4>
+<ul>
+<li><strong>Own your choices</strong> - Take responsibility for decisions and their consequences</li>
+<li><strong>Create organizational meaning</strong> - Help others find purpose in work</li>
+<li><strong>Embrace uncertainty</strong> - Lead confidently amid ambiguity</li>
+<li><strong>Respect others' freedom</strong> - Treat employees as subjects, not objects</li>
+</ul>
+<h4>Example: Crisis Leadership 🌪️</h4>
+<p>During the 2008 financial crisis, authentic leaders:</p>
+<ul>
+<li><strong>Acknowledged reality</strong> 👁️ - Didn't minimize or deny problems</li>
+<li><strong>Took responsibility</strong> ⚖️ - Owned their role in the crisis</li>
+<li><strong>Made hard choices</strong> 🔄 - Cut costs while maintaining core values</li>
+<li><strong>Inspired through honesty</strong> 💫 - Built trust through authentic communication</li>
+</ul>
+<h3>Art and Creativity 🎨</h3>
+<p>Existentialism profoundly influenced modern art, literature, and film:</p>
+<h4>Literature 📚</h4>
+<ul>
+<li><strong>Kafka's alienation</strong> 🪲 - Characters trapped in bureaucratic absurdity</li>
+<li><strong>Beckett's minimalism</strong> 🎭 - Waiting for Godot explores meaning in meaninglessness</li>
+<li><strong>Hemingway's code heroes</strong> 🥊 - Characters creating dignity through action</li>
+</ul>
+<h4>Film 🎬</h4>
+<ul>
+<li><strong>Film noir</strong> 🕵️‍♂️ - Protagonists navigating moral ambiguity</li>
+<li><strong>Bergman's existential crises</strong> 😰 - Characters confronting death and meaninglessness</li>
+<li><strong>Modern indie films</strong> 🎥 - Characters seeking authenticity in postmodern world</li>
+</ul>
+<h2>Critics and Challenges 🤔</h2>
+<h3>The Individualism Problem 👤</h3>
+<p>Critics argue existentialism is excessively individualistic:</p>
+<ul>
+<li><strong>Social structures matter</strong> 🏗️ - Not everything is individual choice</li>
+<li><strong>Community provides meaning</strong> 👥 - Isolation isn't always authentic</li>
+<li><strong>Privilege affects freedom</strong> 💰 - Not everyone has equal choices</li>
+</ul>
+<h3>The Relativism Concern 🌊</h3>
+<p>If we create our own values, how do we judge anything as wrong?</p>
+<ul>
+<li><strong>Existentialist response</strong> 💭 - We must choose as if for all humanity</li>
+<li><strong>Practical ethics</strong> ⚖️ - Some choices promote freedom, others restrict it</li>
+<li><strong>Intersubjective creation</strong> 👥 - We create values together, not alone</li>
+</ul>
+<h3>The Angst Obsession 😰</h3>
+<p>Critics argue existentialists overemphasize anxiety and suffering:</p>
+<ul>
+<li><strong>Joy and flow</strong> 😊 - Positive psychology offers alternatives</li>
+<li><strong>Meaning can be discovered</strong> 🔍 - Not everything must be created</li>
+<li><strong>Community wisdom</strong> 👴 - Traditional sources of meaning still valuable</li>
+</ul>
+<h2>Living Existentially Today 🌅</h2>
+<p>How can we apply existentialist insights in the 21st century?</p>
+<h3>Daily Practices 📅</h3>
+<h4>Morning Reflection 🌅</h4>
+<p>Ask yourself:</p>
+<ul>
+<li><strong>What will I choose to value today?</strong> 🎯</li>
+<li><strong>How will I take responsibility for my circumstances?</strong> ⚖️</li>
+<li><strong>What authentic action can I take?</strong> 💪</li>
+</ul>
+<h4>Decision-Making 🤔</h4>
+<p>Before major choices:</p>
+<ul>
+<li><strong>Recognize your freedom</strong> 🔓 - You genuinely have options</li>
+<li><strong>Accept uncertainty</strong> 🌊 - No choice guarantees specific outcomes</li>
+<li><strong>Choose authentically</strong> 💎 - Based on your deepest values, not others' expectations</li>
+<li><strong>Embrace responsibility</strong> 🎯 - Own the consequences fully</li>
+</ul>
+<h4>Relationship Authenticity ❤️</h4>
+<ul>
+<li><strong>See others as subjects</strong> 👁️ - Not objects for your use</li>
+<li><strong>Express yourself honestly</strong> 🗣️ - While respecting others' freedom</li>
+<li><strong>Create shared meaning</strong> 🤝 - Build values together</li>
+<li><strong>Accept relationship anxiety</strong> 😰 - Intimacy requires vulnerability</li>
+</ul>
+<h3>Career and Purpose 💼</h3>
+<h4>Authentic Work 🎯</h4>
+<ul>
+<li><strong>Align actions with values</strong> ⚖️ - Don't compartmentalize ethics</li>
+<li><strong>Create meaning in any job</strong> 🔧 - Through how you work, not just what work you do</li>
+<li><strong>Take responsibility for growth</strong> 📈 - Don't wait for others to develop you</li>
+<li><strong>Choose your response</strong> 🎭 - To difficult colleagues, unfair situations</li>
+</ul>
+<h4>Purpose Creation 🎨</h4>
+<p>Rather than "finding your passion":</p>
+<ul>
+<li><strong>Experiment with commitment</strong> 🧪 - Try things seriously</li>
+<li><strong>Create meaning through action</strong> 🏃‍♀️ - Purpose emerges from engagement</li>
+<li><strong>Accept evolving purpose</strong> 🌱 - You can choose differently later</li>
+<li><strong>Focus on impact</strong> 💫 - How does your work affect others?</li>
+</ul>
+<h3>Facing Modern Absurdity 🎪</h3>
+<h4>Information Overload 📱</h4>
+<ul>
+<li><strong>Choose your inputs</strong> 🎛️ - Curate information actively</li>
+<li><strong>Create rather than consume</strong> 🎨 - Produce something meaningful</li>
+<li><strong>Engage deeply</strong> 🔍 - Quality over quantity in attention</li>
+</ul>
+<h4>Social Media Authenticity 📸</h4>
+<ul>
+<li><strong>Express genuine self</strong> 💎 - Not just curated highlights</li>
+<li><strong>Engage meaningfully</strong> 💬 - Have real conversations</li>
+<li><strong>Choose your metrics</strong> 📊 - Define success for yourself</li>
+</ul>
+<h4>Climate Change and Global Issues 🌍</h4>
+<ul>
+<li><strong>Accept what you can't control</strong> 🌊 - Focus energy on possible actions</li>
+<li><strong>Take meaningful action</strong> 🌱 - However small, act on your values</li>
+<li><strong>Create hope through engagement</strong> ✨ - Hope as action, not passive waiting</li>
+</ul>
+<h2>The Existentialist Legacy 🌟</h2>
+<p>Existentialism's lasting contributions to human thought:</p>
+<h3>Individual Agency 💪</h3>
+<p>Emphasis on personal choice and responsibility empowers individuals to shape their lives actively rather than passively accepting circumstances.</p>
+<h3>Authenticity Culture 💎</h3>
+<p>The value placed on "being yourself" traces directly to existentialist thought, influencing everything from psychology to marketing.</p>
+<h3>Therapeutic Revolution 🛋️</h3>
+<p>Existential insights revolutionized mental health treatment, emphasizing meaning-making and choice over mere symptom reduction.</p>
+<h3>Artistic Expression 🎨</h3>
+<p>The movement freed artists to explore subjective experience, alienation, and the search for meaning in increasingly complex works.</p>
+<h3>Social Justice 👥</h3>
+<p>Despite criticisms of individualism, existentialist emphasis on freedom and responsibility contributed to civil rights and liberation movements.</p>
+<h2>Conclusion: The Courage to Be 🦁</h2>
+<p>Existentialism offers no easy answers or comforting certainties. Instead, it presents a challenge: <strong>Have the courage to live authentically in an uncertain world.</strong></p>
+<p>This means:</p>
+<ul>
+<li><strong>Accepting your radical freedom</strong> 🔓 - And the anxiety it brings</li>
+<li><strong>Taking full responsibility</strong> ⚖️ - For your choices and their consequences</li>
+<li><strong>Creating meaning actively</strong> 🎨 - Rather than waiting to discover it</li>
+<li><strong>Living with uncertainty</strong> 🌊 - While still making committed choices</li>
+<li><strong>Respecting others' freedom</strong> 👥 - Even when they choose differently</li>
+</ul>
+<p>In our age of information overwhelm, social media comparison, and global uncertainty, existentialist insights remain startlingly relevant. The specific anxieties may change - career algorithm optimization instead of wartime survival, climate change instead of nuclear annihilation - but the fundamental human condition remains:</p>
+<p>We are thrown into existence without our consent, forced to choose without complete information, and required to create meaning in an apparently meaningless universe. This isn't a problem to solve but a condition to embrace.</p>
+<p><strong>The existentialist invitation</strong> is both terrifying and liberating: You are free. What will you do with that freedom?</p>
+<p><em>As Sartre might say: You are condemned to be free - but that condemnation is also your greatest gift. How will you use it?</em> 🎁🔓</p>
+1f:["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$23"},"className":"prose-headings:scroll-mt-24"}]
+20:["$","section",null,{"className":"mt-16","children":[["$","h2",null,{"className":"text-2xl font-bold mb-6","children":"Related Articles"}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","div","nature-of-consciousness",{"data-slot":"card","className":"bg-card text-card-foreground flex flex-col gap-6 rounded-xl border py-6 shadow-sm hover:shadow-md transition-shadow","children":[["$","div",null,{"data-slot":"card-header","className":"@container/card-header grid auto-rows-min grid-rows-[auto_auto] items-start gap-2 px-6 has-data-[slot=card-action]:grid-cols-[1fr_auto] [.border-b]:pb-6 pb-3","children":[["$","span",null,{"data-slot":"badge","className":"inline-flex items-center justify-center rounded-full border px-2 py-0.5 font-medium whitespace-nowrap shrink-0 [&>svg]:size-3 gap-1 [&>svg]:pointer-events-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive transition-[color,box-shadow] overflow-hidden border-transparent bg-secondary text-secondary-foreground [a&]:hover:bg-secondary/90 w-fit mb-2 text-xs","children":"philosophy"}],["$","div",null,{"data-slot":"card-title","className":"font-semibold text-lg line-clamp-2","children":["$","$L7",null,{"href":"/articles/nature-of-consciousness","className":"hover:text-primary transition-colors","children":"The Nature of Consciousness: A Philosophical Inquiry"}]}]]}],["$","div",null,{"data-slot":"card-content","className":"px-6","children":[["$","div",null,{"data-slot":"card-description","className":"text-muted-foreground text-sm line-clamp-2","children":"Exploring the fundamental questions surrounding consciousness, its nature, and its place in our understanding of reality."}],["$","div",null,{"className":"mt-3 flex items-center justify-between","children":[["$","span",null,{"className":"text-xs text-muted-foreground","children":"4 min read"}],["$","$L7",null,{"href":"/articles/nature-of-consciousness","children":["Read",["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-right ml-1 h-3 w-3","aria-hidden":"true","children":[["$","path","1ays0h",{"d":"M5 12h14"}],["$","path","xquz4c",{"d":"m12 5 7 7-7 7"}],"$undefined"]}]],"data-slot":"button","className":"inline-flex items-center justify-center whitespace-nowrap text-sm font-medium transition-all disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg:not([class*='size-'])]:size-4 shrink-0 [&_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive hover:bg-accent hover:text-accent-foreground dark:hover:bg-accent/50 h-8 rounded-md gap-1.5 px-3 has-[>svg]:px-2.5","ref":null}]]}]]}]]}],["$","div","aristotelian-virtue-ethics",{"data-slot":"card","className":"bg-card text-card-foreground flex flex-col gap-6 rounded-xl border py-6 shadow-sm hover:shadow-md transition-shadow","children":[["$","div",null,{"data-slot":"card-header","className":"@container/card-header grid auto-rows-min grid-rows-[auto_auto] items-start gap-2 px-6 has-data-[slot=card-action]:grid-cols-[1fr_auto] [.border-b]:pb-6 pb-3","children":[["$","span",null,{"data-slot":"badge","className":"inline-flex items-center justify-center rounded-full border px-2 py-0.5 font-medium whitespace-nowrap shrink-0 [&>svg]:size-3 gap-1 [&>svg]:pointer-events-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive transition-[color,box-shadow] overflow-hidden border-transparent bg-secondary text-secondary-foreground [a&]:hover:bg-secondary/90 w-fit mb-2 text-xs","children":"philosophy"}],"$L24"]}],"$L25"]}],"$L26"]}]]}]
+27:T4a23,# Existentialism and Authenticity: Creating Meaning in an Absurd World 🎭🌟
+
+*"Man is condemned to be free; because once thrown into the world, he is responsible for everything he does."* - Jean-Paul Sartre
+
+In the aftermath of two world wars, amid the ruins of traditional religious and moral certainties, a group of philosophers dared to ask the most fundamental questions: What does it mean to exist? How do we create meaning when the universe seems indifferent to our struggles? How do we live authentically in a world that often demands conformity?
+
+Welcome to existentialism - philosophy's most radical and personal movement.
+
+## The Existentialist Awakening ⚡
+
+Existentialism emerged from a profound crisis of meaning in the 20th century. Traditional sources of value - religion, nationalism, universal reason - had seemingly failed. The result? A philosophical movement that placed the individual at the center of meaning-creation.
+
+### Core Existentialist Themes 🎯
+
+#### 1. Existence Precedes Essence 🌱
+
+Unlike objects (which have predetermined purposes), humans exist first and create their essence through choices and actions.
+
+**A hammer** 🔨 has an essence (hammering) that precedes its existence.
+**A human** 👤 exists first, then defines what it means to be human through living.
+
+#### 2. Radical Freedom and Responsibility 🔓
+
+We are "condemned to be free" and fully responsible for our choices - no excuses, no predetermined nature to blame.
+
+#### 3. Authenticity vs. Bad Faith 🎭
+
+Living authentically means accepting our freedom and responsibility, while "bad faith" involves denying this freedom through self-deception.
+
+#### 4. Anxiety and Angst 😰
+
+The recognition of our absolute freedom creates anxiety - not neurotic worry, but existential dread at the weight of responsibility.
+
+#### 5. Absurdity 🎪
+
+The conflict between human need for meaning and the universe's apparent meaninglessness creates an absurd condition.
+
+## Jean-Paul Sartre: Freedom as Burden and Gift 🇫🇷
+
+Sartre, the movement's most systematic philosopher, developed a comprehensive existentialist framework.
+
+### Being-for-itself vs. Being-in-itself 🪨👤
+
+#### Being-in-itself (Objects) 🪨
+
+* **Complete and determined** - A rock is just a rock
+* **No consciousness** - Cannot question or change
+* **Facticity** - Pure being without freedom
+
+#### Being-for-itself (Human consciousness) 👤
+
+* **Incomplete and questioning** - Always becoming, never complete
+* **Self-aware** - Conscious of consciousness itself
+* **Nothingness at core** - The gap between what we are and what we might become
+
+### Bad Faith: The Great Escape 🚪
+
+Sartre identified various forms of **mauvaise foi** (bad faith) - ways we deny our freedom:
+
+#### The Waiter Example 🍽️
+
+A waiter who over-identifies with his role, playing at "being a waiter" to avoid confronting his freedom to choose other possibilities.
+
+#### Spirit of Seriousness 😤
+
+Treating social roles, values, or institutions as objectively given rather than human constructions we're free to reject.
+
+#### The Look of the Other 👁️
+
+Allowing others to define us, becoming objects in their gaze rather than subjects of our own experience.
+
+### Authenticity: Embracing the Burden 💪
+
+Authentic existence requires:
+
+* **Accepting radical freedom** 🔓 - No essence determines your choices
+* **Taking full responsibility** ⚖️ - For yourself and, in choosing for yourself, for all humanity
+* **Embracing anxiety** 😰 - The natural response to recognizing freedom
+* **Creating values** 🎨 - Rather than discovering pre-existing ones
+
+### Sartre's Famous Example: The Student's Dilemma 🎓⚔️
+
+During WWII, a student asks Sartre whether to join the Resistance or care for his mother. Sartre's response? **No universal principle can decide**. The student must choose, and in choosing, create value. If he chooses the Resistance, he affirms that fighting fascism matters more than filial duty. If he chooses his mother, he affirms that personal loyalty trumps political action.
+
+The weight of the choice creates anguish - and that's precisely what makes us human.
+
+## Albert Camus: The Absurd Hero 🌄
+
+While often grouped with existentialists, Camus rejected the label, preferring "absurdist." His focus: how to live fully despite life's fundamental absurdity.
+
+### The Absurd Trinity 🔺
+
+Camus identified three elements that create absurdity:
+
+1. **Human need for meaning** 🧠 - We desperately seek purpose and understanding
+2. **Universe's silence** 🌌 - The cosmos offers no inherent meaning or answers
+3. **Their confrontation** ⚡ - The clash between human need and cosmic indifference
+
+### The Myth of Sisyphus: Rebellion Through Acceptance 🪨⛰️
+
+Sisyphus, condemned by the gods to roll a boulder up a mountain for eternity, becomes Camus's hero. Why?
+
+**Most people assume** Sisyphus is miserable - trapped in meaningless, repetitive punishment.
+
+**Camus suggests** we must imagine Sisyphus happy. How?
+
+* **Full consciousness** 👁️ - Sisyphus sees his situation clearly, without illusions
+* **Rebellion** ✊ - He refuses to hope for escape or divine intervention
+* **Passionate engagement** 🔥 - He commits fully to his task despite its apparent meaninglessness
+
+*"The struggle itself toward the heights is enough to fill a man's heart."*
+
+### The Absurd Man's Principles 🎯
+
+1. **Lucid indifference** 😌 - Clear-eyed acceptance of absurdity
+2. **Revolt** ✊ - Refusal to surrender to despair or false hopes
+3. **Passion** 🔥 - Full engagement with life despite its apparent meaninglessness
+
+### Camus vs. Suicide: The Fundamental Question 💭
+
+Camus begins *The Myth of Sisyphus* with philosophy's most urgent question: **"There is but one truly serious philosophical problem, and that is suicide."**
+
+His argument against suicide:
+
+* **Life has no inherent meaning** ❌ - True, but this doesn't justify ending it
+* **We can create meaning** ✨ - Through revolt, passion, and lucid living
+* **Quantity of experience** 📊 - More life means more experience, regardless of meaning
+* **Solidarity with humanity** 🤝 - Suicide abandons others facing the same absurd condition
+
+## Søren Kierkegaard: The Father of Existentialism ⛪
+
+Writing a century before Sartre and Camus, this Danish philosopher laid existentialism's foundations while remaining deeply religious.
+
+### The Three Stages of Existence 🎭
+
+#### The Aesthetic Stage 🎨
+
+* **Pursuit of pleasure** and immediate gratification
+* **Avoidance of commitment** and responsibility
+* **Example**: Don Juan, the eternal seducer
+* **Problem**: Leads to boredom and despair
+
+#### The Ethical Stage ⚖️
+
+* **Universal moral principles** guide behavior
+* **Duty and social responsibility** take precedence
+* **Example**: The ethical judge who upholds social order
+* **Problem**: Can become rigid and impersonal
+
+#### The Religious Stage 🙏
+
+* **Individual relationship** with the absolute (God)
+* **Faith beyond reason** and social convention
+* **Example**: Abraham willing to sacrifice Isaac
+* **Tension**: Requires "leap of faith" beyond rational justification
+
+### Anxiety: The Dizziness of Freedom 😵‍💫
+
+Kierkegaard's famous analysis of anxiety as the response to freedom:
+
+*"Anxiety is the dizziness of freedom, which emerges when the spirit wants to posit the synthesis, and freedom looks down into its own possibility, laying hold of finiteness to support itself."*
+
+Standing at a cliff's edge, we experience anxiety not just from fear of falling, but from recognizing our freedom to jump - the terrifying realization that nothing prevents us from choosing our own destruction except our own choice not to.
+
+### Either/Or: The Agony of Choice 🔀
+
+For Kierkegaard, authentic existence requires decisive choice without complete rational justification. We must choose either aesthetic pleasure-seeking or ethical duty - but the choice itself cannot be rationally proven correct.
+
+This creates anxiety but also authenticity - we become who we are through our choices, not through discovering some predetermined essence.
+
+## Simone de Beauvoir: Existentialist Feminism 🌹
+
+Often overshadowed by Sartre (her lifelong partner), de Beauvoir developed crucial existentialist insights about gender, otherness, and freedom.
+
+### The Second Sex: Existential Analysis of Women's Situation 👥
+
+De Beauvoir's famous declaration: **"One is not born, but rather becomes, a woman."**
+
+This exemplifies existentialist thinking:
+
+* **No female essence** 🚫 - Femininity is socially constructed, not biologically determined
+* **Situation shapes existence** 🏗️ - Women's "nature" reflects their historical and social circumstances
+* **Freedom through recognition** 🔓 - Understanding oppression is the first step to transcending it
+
+### The Ethics of Ambiguity 🌫️
+
+De Beauvoir explored how we can act ethically in an ambiguous world:
+
+#### Key Insights 💡
+
+* **We are all interdependent** 🔗 - My freedom depends on others' freedom
+* **Ethical action requires recognition** 👁️ - Seeing others as free subjects, not objects
+* **Ambiguity is permanent** 🌊 - We must act without complete certainty
+
+#### Types of People 👥
+
+1. **The Sub-man** 😴 - Refuses to recognize their freedom
+2. **The Serious Man** 😤 - Treats values as objectively given
+3. **The Nihilist** 🕳️ - Recognizes meaninglessness but falls into despair
+4. **The Adventurer** 🗺️ - Pursues freedom for its own sake
+5. **The Passionate Man** ❤️ - Commits to chosen values while recognizing their contingency
+
+## Friedrich Nietzsche: The Proto-Existentialist 🦅
+
+Though predating official existentialism by decades, Nietzsche profoundly influenced the movement.
+
+### The Death of God 💀
+
+Nietzsche's famous proclamation wasn't celebration but diagnosis:
+
+* **Traditional values are crumbling** 🏛️💥 - Religious and moral certainties no longer hold
+* **Nihilism threatens** 🕳️ - Without God-given meaning, people risk despair
+* **Opportunity for recreation** 🎨 - Humans can now create their own values
+
+### The Übermensch: Self-Creation Through Will 💪
+
+The "overman" doesn't refer to a superior race but to individuals who:
+
+* **Create their own values** 🎨 - Rather than accepting inherited ones
+* **Affirm life fully** ✅ - Including its suffering and uncertainty
+* **Exercise will to power** ⚡ - Express their creative potential maximally
+
+### Eternal Recurrence: The Ultimate Test 🔄
+
+Imagine living your exact life infinitely again - every joy, every pain, every moment of boredom. Could you affirm this eternal repetition? If yes, you're living authentically. If no, you need to change how you live.
+
+## Existentialism in Practice: Modern Applications 🌍
+
+### Existential Psychotherapy 🛋️
+
+Therapists like Viktor Frankl, Rollo May, and Irvin Yalom developed therapeutic approaches based on existentialist insights:
+
+#### Core Principles 🎯
+
+* **Freedom and responsibility** - Clients can choose their responses to circumstances
+* **Meaning-making** - Therapy helps create rather than discover meaning
+* **Anxiety as growth** - Existential anxiety signals opportunities for authentic choice
+* **Death awareness** - Accepting mortality intensifies authentic living
+
+#### Case Example 📋
+
+A client feels trapped in an unfulfilling career. Traditional therapy might explore childhood causes. Existential therapy focuses on:
+
+* **Recognizing choice** 🔓 - You chose this career and can choose differently
+* **Accepting anxiety** 😰 - Career change creates uncertainty - that's normal
+* **Creating meaning** 🎨 - What would make work meaningful for you?
+* **Taking responsibility** ⚖️ - Own your choices rather than blaming circumstances
+
+### Business and Leadership 💼
+
+Existentialist principles apply to organizational life:
+
+#### Authentic Leadership 👑
+
+* **Own your choices** - Take responsibility for decisions and their consequences
+* **Create organizational meaning** - Help others find purpose in work
+* **Embrace uncertainty** - Lead confidently amid ambiguity
+* **Respect others' freedom** - Treat employees as subjects, not objects
+
+#### Example: Crisis Leadership 🌪️
+
+During the 2008 financial crisis, authentic leaders:
+
+* **Acknowledged reality** 👁️ - Didn't minimize or deny problems
+* **Took responsibility** ⚖️ - Owned their role in the crisis
+* **Made hard choices** 🔄 - Cut costs while maintaining core values
+* **Inspired through honesty** 💫 - Built trust through authentic communication
+
+### Art and Creativity 🎨
+
+Existentialism profoundly influenced modern art, literature, and film:
+
+#### Literature 📚
+
+* **Kafka's alienation** 🪲 - Characters trapped in bureaucratic absurdity
+* **Beckett's minimalism** 🎭 - Waiting for Godot explores meaning in meaninglessness
+* **Hemingway's code heroes** 🥊 - Characters creating dignity through action
+
+#### Film 🎬
+
+* **Film noir** 🕵️‍♂️ - Protagonists navigating moral ambiguity
+* **Bergman's existential crises** 😰 - Characters confronting death and meaninglessness
+* **Modern indie films** 🎥 - Characters seeking authenticity in postmodern world
+
+## Critics and Challenges 🤔
+
+### The Individualism Problem 👤
+
+Critics argue existentialism is excessively individualistic:
+
+* **Social structures matter** 🏗️ - Not everything is individual choice
+* **Community provides meaning** 👥 - Isolation isn't always authentic
+* **Privilege affects freedom** 💰 - Not everyone has equal choices
+
+### The Relativism Concern 🌊
+
+If we create our own values, how do we judge anything as wrong?
+
+* **Existentialist response** 💭 - We must choose as if for all humanity
+* **Practical ethics** ⚖️ - Some choices promote freedom, others restrict it
+* **Intersubjective creation** 👥 - We create values together, not alone
+
+### The Angst Obsession 😰
+
+Critics argue existentialists overemphasize anxiety and suffering:
+
+* **Joy and flow** 😊 - Positive psychology offers alternatives
+* **Meaning can be discovered** 🔍 - Not everything must be created
+* **Community wisdom** 👴 - Traditional sources of meaning still valuable
+
+## Living Existentially Today 🌅
+
+How can we apply existentialist insights in the 21st century?
+
+### Daily Practices 📅
+
+#### Morning Reflection 🌅
+
+Ask yourself:
+
+* **What will I choose to value today?** 🎯
+* **How will I take responsibility for my circumstances?** ⚖️
+* **What authentic action can I take?** 💪
+
+#### Decision-Making 🤔
+
+Before major choices:
+
+* **Recognize your freedom** 🔓 - You genuinely have options
+* **Accept uncertainty** 🌊 - No choice guarantees specific outcomes
+* **Choose authentically** 💎 - Based on your deepest values, not others' expectations
+* **Embrace responsibility** 🎯 - Own the consequences fully
+
+#### Relationship Authenticity ❤️
+
+* **See others as subjects** 👁️ - Not objects for your use
+* **Express yourself honestly** 🗣️ - While respecting others' freedom
+* **Create shared meaning** 🤝 - Build values together
+* **Accept relationship anxiety** 😰 - Intimacy requires vulnerability
+
+### Career and Purpose 💼
+
+#### Authentic Work 🎯
+
+* **Align actions with values** ⚖️ - Don't compartmentalize ethics
+* **Create meaning in any job** 🔧 - Through how you work, not just what work you do
+* **Take responsibility for growth** 📈 - Don't wait for others to develop you
+* **Choose your response** 🎭 - To difficult colleagues, unfair situations
+
+#### Purpose Creation 🎨
+
+Rather than "finding your passion":
+
+* **Experiment with commitment** 🧪 - Try things seriously
+* **Create meaning through action** 🏃‍♀️ - Purpose emerges from engagement
+* **Accept evolving purpose** 🌱 - You can choose differently later
+* **Focus on impact** 💫 - How does your work affect others?
+
+### Facing Modern Absurdity 🎪
+
+#### Information Overload 📱
+
+* **Choose your inputs** 🎛️ - Curate information actively
+* **Create rather than consume** 🎨 - Produce something meaningful
+* **Engage deeply** 🔍 - Quality over quantity in attention
+
+#### Social Media Authenticity 📸
+
+* **Express genuine self** 💎 - Not just curated highlights
+* **Engage meaningfully** 💬 - Have real conversations
+* **Choose your metrics** 📊 - Define success for yourself
+
+#### Climate Change and Global Issues 🌍
+
+* **Accept what you can't control** 🌊 - Focus energy on possible actions
+* **Take meaningful action** 🌱 - However small, act on your values
+* **Create hope through engagement** ✨ - Hope as action, not passive waiting
+
+## The Existentialist Legacy 🌟
+
+Existentialism's lasting contributions to human thought:
+
+### Individual Agency 💪
+
+Emphasis on personal choice and responsibility empowers individuals to shape their lives actively rather than passively accepting circumstances.
+
+### Authenticity Culture 💎
+
+The value placed on "being yourself" traces directly to existentialist thought, influencing everything from psychology to marketing.
+
+### Therapeutic Revolution 🛋️
+
+Existential insights revolutionized mental health treatment, emphasizing meaning-making and choice over mere symptom reduction.
+
+### Artistic Expression 🎨
+
+The movement freed artists to explore subjective experience, alienation, and the search for meaning in increasingly complex works.
+
+### Social Justice 👥
+
+Despite criticisms of individualism, existentialist emphasis on freedom and responsibility contributed to civil rights and liberation movements.
+
+## Conclusion: The Courage to Be 🦁
+
+Existentialism offers no easy answers or comforting certainties. Instead, it presents a challenge: **Have the courage to live authentically in an uncertain world.**
+
+This means:
+
+* **Accepting your radical freedom** 🔓 - And the anxiety it brings
+* **Taking full responsibility** ⚖️ - For your choices and their consequences
+* **Creating meaning actively** 🎨 - Rather than waiting to discover it
+* **Living with uncertainty** 🌊 - While still making committed choices
+* **Respecting others' freedom** 👥 - Even when they choose differently
+
+In our age of information overwhelm, social media comparison, and global uncertainty, existentialist insights remain startlingly relevant. The specific anxieties may change - career algorithm optimization instead of wartime survival, climate change instead of nuclear annihilation - but the fundamental human condition remains:
+
+We are thrown into existence without our consent, forced to choose without complete information, and required to create meaning in an apparently meaningless universe. This isn't a problem to solve but a condition to embrace.
+
+**The existentialist invitation** is both terrifying and liberating: You are free. What will you do with that freedom?
+
+*As Sartre might say: You are condemned to be free - but that condemnation is also your greatest gift. How will you use it?* 🎁🔓
+21:["$","div",null,{"className":"lg:col-span-1","children":["$","div",null,{"className":"sticky top-24 space-y-6","children":[["$","div",null,{"data-slot":"card","className":"bg-card text-card-foreground flex flex-col gap-6 rounded-xl border py-6 shadow-sm","children":[["$","div",null,{"data-slot":"card-header","className":"@container/card-header grid auto-rows-min grid-rows-[auto_auto] items-start gap-2 px-6 has-data-[slot=card-action]:grid-cols-[1fr_auto] [.border-b]:pb-6","children":["$","div",null,{"data-slot":"card-title","className":"font-semibold text-lg","children":"Table of Contents"}]}],["$","div",null,{"data-slot":"card-content","className":"px-6","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$27"},"className":"prose prose-sm dark:prose-invert prose-a:text-primary prose-a:no-underline hover:prose-a:underline"}]}]]}],"$L28","$L29"]}]}]
+22:["$","span","freedom",{"data-slot":"badge","className":"inline-flex items-center justify-center rounded-full border px-2 py-0.5 font-medium w-fit whitespace-nowrap shrink-0 [&>svg]:size-3 gap-1 [&>svg]:pointer-events-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive transition-[color,box-shadow] overflow-hidden text-foreground [a&]:hover:bg-accent [a&]:hover:text-accent-foreground text-xs","children":"freedom"}]
+24:["$","div",null,{"data-slot":"card-title","className":"font-semibold text-lg line-clamp-2","children":["$","$L7",null,{"href":"/articles/aristotelian-virtue-ethics","className":"hover:text-primary transition-colors","children":"Aristotelian Virtue Ethics: The Golden Mean and Human Flourishing 🌟⚖️"}]}]
+25:["$","div",null,{"data-slot":"card-content","className":"px-6","children":[["$","div",null,{"data-slot":"card-description","className":"text-muted-foreground text-sm line-clamp-2","children":"Exploring Aristotle's timeless approach to ethics through virtue, character, and the pursuit of eudaimonia - a life well-lived."}],["$","div",null,{"className":"mt-3 flex items-center justify-between","children":[["$","span",null,{"className":"text-xs text-muted-foreground","children":"9 min read"}],["$","$L7",null,{"href":"/articles/aristotelian-virtue-ethics","children":["Read",["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-right ml-1 h-3 w-3","aria-hidden":"true","children":[["$","path","1ays0h",{"d":"M5 12h14"}],["$","path","xquz4c",{"d":"m12 5 7 7-7 7"}],"$undefined"]}]],"data-slot":"button","className":"inline-flex items-center justify-center whitespace-nowrap text-sm font-medium transition-all disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg:not([class*='size-'])]:size-4 shrink-0 [&_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive hover:bg-accent hover:text-accent-foreground dark:hover:bg-accent/50 h-8 rounded-md gap-1.5 px-3 has-[>svg]:px-2.5","ref":null}]]}]]}]
+26:["$","div","platos-cave-allegory",{"data-slot":"card","className":"bg-card text-card-foreground flex flex-col gap-6 rounded-xl border py-6 shadow-sm hover:shadow-md transition-shadow","children":[["$","div",null,{"data-slot":"card-header","className":"@container/card-header grid auto-rows-min grid-rows-[auto_auto] items-start gap-2 px-6 has-data-[slot=card-action]:grid-cols-[1fr_auto] [.border-b]:pb-6 pb-3","children":[["$","span",null,{"data-slot":"badge","className":"inline-flex items-center justify-center rounded-full border px-2 py-0.5 font-medium whitespace-nowrap shrink-0 [&>svg]:size-3 gap-1 [&>svg]:pointer-events-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive transition-[color,box-shadow] overflow-hidden border-transparent bg-secondary text-secondary-foreground [a&]:hover:bg-secondary/90 w-fit mb-2 text-xs","children":"philosophy"}],["$","div",null,{"data-slot":"card-title","className":"font-semibold text-lg line-clamp-2","children":["$","$L7",null,{"href":"/articles/platos-cave-allegory","className":"hover:text-primary transition-colors","children":"Plato's Cave: Understanding Reality Through Shadows and Enlightenment 🕳️💡"}]}]]}],["$","div",null,{"data-slot":"card-content","className":"px-6","children":[["$","div",null,{"data-slot":"card-description","className":"text-muted-foreground text-sm line-clamp-2","children":"Dive deep into Plato's most famous allegory and discover how it illuminates the journey from ignorance to knowledge, from illusion to truth."}],["$","div",null,{"className":"mt-3 flex items-center justify-between","children":[["$","span",null,{"className":"text-xs text-muted-foreground","children":"9 min read"}],["$","$L7",null,{"href":"/articles/platos-cave-allegory","children":["Read",["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-right ml-1 h-3 w-3","aria-hidden":"true","children":[["$","path","1ays0h",{"d":"M5 12h14"}],["$","path","xquz4c",{"d":"m12 5 7 7-7 7"}],"$undefined"]}]],"data-slot":"button","className":"inline-flex items-center justify-center whitespace-nowrap text-sm font-medium transition-all disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg:not([class*='size-'])]:size-4 shrink-0 [&_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive hover:bg-accent hover:text-accent-foreground dark:hover:bg-accent/50 h-8 rounded-md gap-1.5 px-3 has-[>svg]:px-2.5","ref":null}]]}]]}]]}]
+28:["$","div",null,{"data-slot":"card","className":"bg-card text-card-foreground flex flex-col gap-6 rounded-xl border py-6 shadow-sm","children":[["$","div",null,{"data-slot":"card-header","className":"@container/card-header grid auto-rows-min grid-rows-[auto_auto] items-start gap-2 px-6 has-data-[slot=card-action]:grid-cols-[1fr_auto] [.border-b]:pb-6","children":["$","div",null,{"data-slot":"card-title","className":"font-semibold text-lg","children":"Article Info"}]}],["$","div",null,{"data-slot":"card-content","className":"px-6 space-y-3","children":[["$","div",null,{"className":"flex justify-between items-center text-sm","children":[["$","span",null,{"children":"Category"}],["$","span",null,{"data-slot":"badge","className":"inline-flex items-center justify-center rounded-full border px-2 py-0.5 text-xs font-medium w-fit whitespace-nowrap shrink-0 [&>svg]:size-3 gap-1 [&>svg]:pointer-events-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive transition-[color,box-shadow] overflow-hidden border-transparent bg-secondary text-secondary-foreground [a&]:hover:bg-secondary/90","children":"philosophy"}]]}],["$","div",null,{"className":"flex justify-between items-center text-sm","children":[["$","span",null,{"children":"Reading Time"}],["$","span",null,{"className":"text-muted-foreground","children":"14 min read"}]]}],["$","div",null,{"className":"flex justify-between items-center text-sm","children":[["$","span",null,{"children":"Word Count"}],["$","span",null,{"className":"text-muted-foreground","children":2781}]]}],["$","div",null,{"className":"flex justify-between items-center text-sm","children":[["$","span",null,{"children":"Published"}],["$","span",null,{"className":"text-muted-foreground","children":"Nov 8, 2024"}]]}]]}]]}]
+29:["$","div",null,{"data-slot":"card","className":"bg-card text-card-foreground flex flex-col gap-6 rounded-xl border py-6 shadow-sm","children":[["$","div",null,{"data-slot":"card-header","className":"@container/card-header grid auto-rows-min grid-rows-[auto_auto] items-start gap-2 px-6 has-data-[slot=card-action]:grid-cols-[1fr_auto] [.border-b]:pb-6","children":["$","div",null,{"data-slot":"card-title","className":"font-semibold text-lg","children":"Share Article"}]}],["$","div",null,{"data-slot":"card-content","className":"px-6 space-y-2","children":[["$","a",null,{"href":"https://deitheon.org/articles/existentialism-authenticity/","target":"_blank","rel":"noopener noreferrer","children":"View Link","data-slot":"button","className":"inline-flex items-center whitespace-nowrap text-sm font-medium transition-all disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg:not([class*='size-'])]:size-4 shrink-0 [&_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive border bg-background shadow-xs hover:bg-accent hover:text-accent-foreground dark:bg-input/30 dark:border-input dark:hover:bg-input/50 h-8 rounded-md gap-1.5 px-3 has-[>svg]:px-2.5 w-full justify-start","ref":null}],["$","a",null,{"href":"https://twitter.com/intent/tweet?text=Existentialism%20and%20Authenticity%3A%20Creating%20Meaning%20in%20an%20Absurd%20World%20%F0%9F%8E%AD%F0%9F%8C%9F&url=https%3A%2F%2Fdeitheon.org%2Farticles%2Fexistentialism-authenticity%2F","target":"_blank","rel":"noopener noreferrer","children":"Share on Twitter","data-slot":"button","className":"inline-flex items-center whitespace-nowrap text-sm font-medium transition-all disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg:not([class*='size-'])]:size-4 shrink-0 [&_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive border bg-background shadow-xs hover:bg-accent hover:text-accent-foreground dark:bg-input/30 dark:border-input dark:hover:bg-input/50 h-8 rounded-md gap-1.5 px-3 has-[>svg]:px-2.5 w-full justify-start","ref":null}]]}]]}]
+19:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+2a:I[556,[],"IconMark"]
+1b:[["$","title","0",{"children":"Existentialism and Authenticity: Creating Meaning in an Absurd World 🎭🌟 | DeiTheon"}],["$","meta","1",{"name":"description","content":"Explore how existentialist philosophers like Sartre, Camus, and Kierkegaard confronted the absurdity of existence and found paths to authentic living."}],["$","meta","2",{"name":"author","content":"Dr. Jean-Paul Martin"}],["$","meta","3",{"name":"keywords","content":"existentialism,authenticity,Sartre,Camus,Kierkegaard,absurdism,freedom"}],["$","meta","4",{"name":"creator","content":"DeiTheon"}],["$","meta","5",{"name":"robots","content":"index, follow"}],["$","meta","6",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","7",{"property":"og:title","content":"Existentialism and Authenticity: Creating Meaning in an Absurd World 🎭🌟"}],["$","meta","8",{"property":"og:description","content":"Explore how existentialist philosophers like Sartre, Camus, and Kierkegaard confronted the absurdity of existence and found paths to authentic living."}],["$","meta","9",{"property":"og:type","content":"article"}],["$","meta","10",{"property":"article:published_time","content":"2024-11-08"}],["$","meta","11",{"property":"article:author","content":"Dr. Jean-Paul Martin"}],["$","meta","12",{"property":"article:tag","content":"existentialism"}],["$","meta","13",{"property":"article:tag","content":"authenticity"}],["$","meta","14",{"property":"article:tag","content":"Sartre"}],["$","meta","15",{"property":"article:tag","content":"Camus"}],["$","meta","16",{"property":"article:tag","content":"Kierkegaard"}],["$","meta","17",{"property":"article:tag","content":"absurdism"}],["$","meta","18",{"property":"article:tag","content":"freedom"}],["$","meta","19",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","20",{"name":"twitter:title","content":"Existentialism and Authenticity: Creating Meaning in an Absurd World 🎭🌟"}],["$","meta","21",{"name":"twitter:description","content":"Explore how existentialist philosophers like Sartre, Camus, and Kierkegaard confronted the absurdity of existence and found paths to authentic living."}],["$","link","22",{"rel":"shortcut icon","href":"/favicon.ico"}],["$","link","23",{"rel":"icon","href":"/favicon.ico?22e9afe344db10fb","type":"image/x-icon","sizes":"512x512"}],["$","link","24",{"rel":"icon","href":"/favicon.ico","sizes":"any"}],["$","link","25",{"rel":"icon","href":"/favicon.png","type":"image/png"}],["$","link","26",{"rel":"apple-touch-icon","href":"/favicon.png"}],["$","link","27",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon"}],["$","$L2a","28",{}]]
+17:null
