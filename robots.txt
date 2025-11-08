@@ -1,8 +1,22 @@
 User-agent: *
 Allow: /
 
+# Disallow sensitive or unnecessary paths
+Disallow: /api/
+Disallow: /next/static/chunks/
+Disallow: /settings
+
+# Allow important content
+Allow: /articles/
+Allow: /categories/
+Allow: /about
+Allow: /contact
+
 # Host
 Host: https://deitheon.com
 
 # Sitemaps
 Sitemap: https://deitheon.com/sitemap.xml
+
+# Crawl-delay (optional - gives crawlers time between requests)
+Crawl-delay: 1
