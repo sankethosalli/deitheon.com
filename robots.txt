@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Host
+Host: https://deitheon.com
+
+# Sitemaps
+Sitemap: https://deitheon.com/sitemap.xml
