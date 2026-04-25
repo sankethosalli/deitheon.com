@@ -1,1 +1,1 @@
-helo, I have made a cake for eathing purpose.
+Hello, I made a cake for eating.
